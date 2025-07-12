@@ -1,0 +1,2000 @@
+Restaurant_id,Restaurant_name,City,Cuisine
+200001,Chatkara King Rasoi,Jalor,Sizzling Indian
+200002,Swad Rasoi Adda,Karnal,Indian Rasoi Junction
+200003,Bhojan Junction,Damoh,Royal Desi Delight
+200004,South Curry House,Kolkata,Punjabi
+200005,Rasoda Bhawan Cart,Howrah,Chaat Bazaar Bites
+200006,Roti Rasoi,Kota,Desi Sweets Combo
+200007,Rasoi Bhawan Cart,Burhanpur,Lentil-Based
+200008,Paratha Plaza,Durg,Grilled Masala Zaika
+200009,Chaat Junction,Jagdalpur,Festive India
+200010,Desi Chulha Rasoi,Kota,Litti Chokha
+200011,Rice & Spice,Neemuch,Dilliwala Thali
+200012,Vyanjan Villa,Mandya,Millet-Based
+200013,Zaika Gully Kitchen,Sagar,Biryani Bhawan
+200014,Indian Tandoor,Chhindwara,Urban Indian Curry
+200015,Indian Roti Treats,Yadgir,Chaat Bazaar Bites
+200016,Chatpata Adda,Bijapur,Rasoi-e-Ghar
+200017,Masala Rasoda,Lohardaga,Royal Feast
+200018,Zaika Cart,Hubli,Rogan Josh Special
+200019,Indian Vyanjan,Serampore,Fry Curry House
+200020,Zaika India Co.,Bhusawal,Dhokla & Farsan
+200021,Swad Spot,Vellore,Punjabi BBQ
+200022,Swad Mahal Rasoi,Udupi,Kathiyawadi
+200023,Swad Sutra,Arambagh,Zaika-e-Fusion
+200024,Spicy Platter,Guntur,Masala Mix Rasoi
+200025,Ghar Ka Bhojan,Katwa,Combo of Rasoi
+200026,Vyanjan Villa,Harda,Baati Chokha Flavors
+200027,Roti Rasoda,Guna,Kachori & Sabzi
+200028,Flavors of India,Raiganj,Swaad Bhawan
+200029,Rasoi Bhawan,Ranchi,Veg Rasoi-e-Zaika
+200030,Bhojan Feast Rasoi,Faridabad,Farm Cuisine India
+200031,Indian Roti Cart,Guwahati,Chatori Dilli Rasoi
+200032,Pav Bhaji Point,Moradabad,Curry Leaf Delight
+200033,Desi Bistro,Rajkot,Urban Zaika Line
+200034,Chatpata Table Rasoi,Malegaon,South Rasoi Express
+200035,Rasoi Nation,Ambala,Biryani & Kebab
+200036,Roti Delight Rasoda,Mandsaur,Dosa Plaza
+200037,Urban Bhojan,Haldia,Fry & Curry House
+200038,Indian Rasoi Express,Bijapur,South Indian
+200039,Tandoor Express,Kanpur,Kulcha & Curry
+200040,Delhi Belly Diner,Deoria,Spicy Food
+200041,Veg Delight,Bengaluru,Veggie Masala Ghar
+200042,Veggie Zest,Navi Mumbai,Ghar Wali Curry
+200043,Flavours of Chennai,Palwal,Sizzler Platter
+200044,Rasoi Swaad,Etawah,Biryani Bhawan
+200045,Curry Zaika,Bellary,Kerala
+200046,Dilli Kitchen Rasoi,Surat,Momos and More
+200047,Veg Rasoi Express,Bhiwandi,Punjabi
+200048,Rasoda Treats Rasoi,Baripada,Indo-Tibetan Combo
+200049,Curry Junction,Chhindwara,Farm-to-Table Indian
+200050,Maharaja Meals,Koraput,Millet Fusion
+200051,Rasoi Nation,Aligarh,Indian Ghar Rasoi
+200052,Masala Kitchen,Jabalpur,Indo-Chinese
+200053,Urban Rasoda,Guwahati,Maharashtrian
+200054,Rasoi Lounge,Navi Mumbai,BBQ Indian
+200055,Maharaja Biryani,Yadgir,South Rasoi Express
+200056,Dilli Delight Rasoi,Itarsi,Khichdi Varieties
+200057,Curry Delight India,Bareilly,Indo-Chinese
+200058,Spicy Platter,Mumbai,Udupi
+200059,The Urban Feast,Midnapore,Tandoori Temptations
+200060,Rasoi Ghar India,Dhanbad,Chulha Special Curry
+200061,Curry Delight,Rudrapur,Sizzling Indian
+200062,Spicy Platter,Jodhpur,Tandoor-e-Zaika
+200063,Chatpata Bhawan,Rampur,Thali Special
+200064,Rasoi Zaika,Chatra,Desi Vegan Combo
+200065,Biryani Rasoi,Khandwa,Indian Zaika Rasoi
+200066,Rasoi Rasoi,Agra,The Royal Feast
+200067,Bhojan Rasoda,Palwal,Momo Rasoi
+200068,Zaika Junction,Visakhapatnam,Biryani Bhawan
+200069,Zaika Rasoda,Gorakhpur,Curry Leaf Rasoda
+200070,Zaika Mahal,Solapur,North Curry Flame
+200071,Chatkara Bhawan,Rajkot,Indian Street Eats
+200072,Zaika Lounge,Noida,Punjabi BBQ
+200073,Masala Delight Chowk,Guna,Desi Zaika Corner
+200074,Royal Curry Rasoi,Giridih,Biryani & Handi
+200075,Curry Cart Rasoi,Durg,Assamese
+200076,Desi Flavors,Faridabad,Pakhala Bhata
+200077,Chatori Rasoda Express,Chikkamagaluru,Dilli Chaat
+200078,Curry Lounge Rasoi,Jabalpur,Bamboo Shoot Curry
+200079,Royal Rasoi,Jaunpur,Tribal Fusion
+200080,Rasoi Bhawan Cart,Chennai,Coconut-Based Dishes
+200081,Desi Curry House,Tumakuru,Hyderabadi
+200082,The Curry Kitchen,Bankura,Dum Pukht
+200083,Rasoda House,Krishnanagar,Indian Gravy Fusion
+200084,Curry Junction,Bhilai,Indo-Chinese
+200085,Chatkara King Rasoi,Mangalore,Curry Carnival
+200086,Pind Punjab,Hubli,Spicy Food
+200087,Indian Roti Treats,Mangalore,Desi Soup & Curry
+200088,Desi Bistro,Malegaon,Combo of Rasoi
+200089,Desi Urban Bites,Bareilly,Desi Vegan Combo
+200090,Zaika Caf√© House,Bardhaman,Rajma Chawal
+200091,Tandoori Zaika Hut,Bidar,Idli Express
+200092,Thali Bhawan,Jalna,Maharaja Thali
+200093,Rasoi Delight Cart,Kochi,Desi Sweets Combo
+200094,Swaad Co.,Kochi,Urban Indian Curry
+200095,Curry Bhavan,Chhindwara,Desi Fast Food
+200096,The Zaika Rasoi,Koppal,Swaad Paratha House
+200097,Ghar Ka Zaika,Jeypore,Dilli Chaat
+200098,Curry Rasoda,Hazaribagh,Dinner Thali
+200099,Rasoi Gully,Ratlam,Bengali
+200100,Bhojan Feast Rasoi,Ujjain,Vegan Indian
+200101,Dilli Rasoi,Chandigarh,Gujrati Kathiyawadi
+200102,The Curry Lounge,Bijapur,Litti Chokha
+200103,Chatkara Caf√©,Narsinghpur,Momos and More
+200104,Biryani Rasoi,Ludhiana,Veg Rasoi-e-Zaika
+200105,The Desi Rasoi,Nayagarh,Roti Saag Makki
+200106,Dosa Rasoi,Jamnagar,Homestyle
+200107,Swad Express Diner,Guntur,Desi Soup & Curry
+200108,Vyanjan Villa,Darjeeling,Swaad Paratha House
+200109,Swad Indian Kitchen,Chatra,Indian Momo Street
+200110,Nukkad Adda,Bagalkot,Indo-Chinese
+200111,Urban Zaika,Aligarh,Maharashtrian
+200112,Biryani Bhawan,Dumka,Rasoi-e-Ghar
+200113,South Thali Rasoi,Ichalkaranji,Udupi
+200114,Zaika Grill,Etawah,The Curry Maharaja
+200115,Chatkara Point,Jamnagar,Kachori & Sabzi
+200116,Rasoi Chowk,Bardhaman,Upma & Sheera
+200117,Rasoi & Co.,Rajkot,Punjabi BBQ
+200118,Rasoi Bhawan,Sitapur,Ghar Wali Curry
+200119,Rasoi Box,Shahjahanpur,Indian Taste Pot
+200120,The Samosa Co.,Hazaribagh,Classic Masala Curry
+200121,Rasoda House,Harda,Udupi
+200122,Chatpata Table Rasoi,Nizamabad,Pure Vegetarian
+200123,The Dilli Haat,Karimnagar,Farm Cuisine India
+200124,South Feast,Chennai,Desi Fast Food
+200125,Chatori Tiffin,Vasai,Temple Food
+200126,Urban Dosa House,Chennai,South Indian
+200127,Roti Tandoor,Tamluk,Zaika-e-Fusion
+200128,Delhi Belly Diner,Bathinda,Urban Indian Curry
+200129,Indian Vyanjan,Jamnagar,Gujarati
+200130,The Thali Rasoi,Cuttack,The Rasoi Flame
+200131,Chatkara Caf√©,Chaibasa,Indian Breads Only
+200132,The Curry Lounge,Howrah,Butter Masala House
+200133,Urban Bhojanalay,Amritsar,Butter Gravy Kitchen
+200134,Maharani Rasoi,Nayagarh,Tiffin Treats India
+200135,Chatpata Rasoi,Chikkaballapur,Spicy Tiffin Treat
+200136,Chatkara Treats,Rewa,Zaika-e-Dilli Thali
+200137,The Zaika Table,Meerut,Tribal Spice Line
+200138,Tandoori Rasoi Caf√©,Prayagraj,Goan Prawn Curry
+200139,Chatpata Rasoi,Bijapur,Zaika-e-Fusion
+200140,Chaat Junction,Ratlam,Ghar Se Zaika
+200141,Indian Zaika Cart,Kolar,Indian Rasoi Junction
+200142,Rasoi Gully,Neemuch,Rajasthani
+200143,Curry Fiesta Rasoi,Akola,Litti Chokha
+200144,Masala Mill,Rewari,Lentil-Based
+200145,The Chatpata Table,Dhule,Indian Curry Stories
+200146,The Curry Co.,Ujjain,Indian Ghar Rasoi
+200147,Royal Rasoi,Jammu,Butter-Based Dishes
+200148,Tandoori Tales,Amritsar,Curry Leaf Cuisine
+200149,Chulha Rasoi,Bhopal,Festival Feast
+200150,Veg Rasoi Express,Kalyan,South Indian Fusion
+200151,Maharani Feast Point,Nagpur,Chaat Bazaar Bites
+200152,Tandoori Zaika Hut,Sangli,Goan
+200153,Ghar Ka Rasoda,Chikkaballapur,Desi Soup & Curry
+200154,Swaad Rasoda,Davanagere,Tiffin Treats India
+200155,Rasoda Junction Express,Rudrapur,Homestyle
+200156,Ghar Se Rasoi,Kalyan,Vegan Indian
+200157,Desi Curry Corner,Rudrapur,Malvani
+200158,Masala Feast,Firozabad,Spicy Food
+200159,Rasoi Express King,Chhindwara,Indo-Chinese
+200160,Butter Chicken Express,Vadodara,Tandoori
+200161,Royal Chatori,Kharagpur,Grand Indian Grill
+200162,Urban Feast Junction,Tamluk,Khichdi House India
+200163,Thali Junction,Kalyan,Dal Bati Churma
+200164,Zaika Grill,Bhiwandi,Swaad Bhawan
+200165,Roti Bhawan,Jabalpur,Naga
+200166,Zaika Adda,Barrackpore,Indian Gravy Fusion
+200167,Curry Mandi,Gwalior,Desi Fast Food
+200168,Swad Dhamaka,Kurukshetra,Tangy Tandoori
+200169,Rasoi Urban Kitchen,Gulbarga,The Rasoi Flame
+200170,Indian Masaledar Treats,Arambagh,Indo-Tibetan Combo
+200171,Royal Swad Rasoi,Jammu,Swaad Paratha House
+200172,Swad Bhawan,Jodhpur,Jain Fusion Food
+200173,Rasoda Culture Rasoi,Damoh,Mughlai
+200174,Maharani Rasoi,Ambala,India Tandoor Rasoi
+200175,Maharani Zaika,Bijapur,Tribal Fusion
+200176,Swad Curry Delight,Nadiad,Urban Zaika Line
+200177,Bhojan Point India,Loni,Mixed Indian Rasoi
+200178,Biryani Treat Rasoi,Maheshtala,Spice Trail India
+200179,Curry Rasoi Junction,Durg,Veg Maharani Rasoi
+200180,Tandoori Kitchen Express,Bokaro,Modern Indian
+200181,Urban Swad,Jaipur,Indian Taste Pot
+200182,Royal Curry Rasoi,Durgapur,Fusion Thali
+200183,Swad Adda Rasoi,Cooch Behar,Naan & More
+200184,The Rasoi Bhog,Ajmer,Biryani Mix Fusion
+200185,The Rasoi Cart,Betul,Idli Express
+200186,Rasoi Heritage,Malegaon,Millet Fusion
+200187,Chatkara Table,Vasai,Bamboo Shoot Curry
+200188,Desi Delights,Chaibasa,Curry Dosa Corner
+200189,Namma Ooru Dosa,Durg,Indian Kitchen Carnival
+200190,The Chatori Rasoi,Mau,Masala-e-Magic Platter
+200191,Roti Tandoor,Korba,South Indian
+200192,Chatpata Rasoi,Mau,Andhra
+200193,Rasoi Culture,Ludhiana,Dilli Chaat
+200194,Dilli Rasoi,Lohardaga,Bihari
+200195,Curry Zaika,Raipur,Ghar Se Zaika
+200196,Swad Bhawan,Coimbatore,Modern Indian
+200197,Tandoori Chatpata,Hisar,Udupi
+200198,Royal Swad Rasoi,Palwal,Royal Feast
+200199,The Tandoori Treats,Kolhapur,Chaat Bazaar Bites
+200200,Spice Villa,Salem,Sambar & Rasam
+200201,Paratha Plaza,Faridabad,Urban Zaika Line
+200202,Masaledaar Rasoi,Kendrapara,Baati Chokha Flavors
+200203,Rasoi Tales,Basirhat,Biryani Mix Fusion
+200204,Zaika Rasoi Point,Bhilai,Sikkimese
+200205,Rasoi Culture,Noida,Fry & Curry House
+200206,Thali Junction,Durg,Fry Curry House
+200207,Veggie Rasoi,Chittoor,Gujrati Kathiyawadi
+200208,Masala Chulha,Ichalkaranji,Rice Bowl India
+200209,Swadish Rasoi,Hoshangabad,Mutton Curry Rasoi
+200210,Roti Rasoda,Tiruppur,Mutton Curry Rasoi
+200211,Rasoi Fusion Cart,Katni,Bengal Fish Kitchen
+200212,Tandoor Express,Bhatpara,Aloo Paratha Specials
+200213,Veggie Zest,Hyderabad,Ghar Ka Zaika
+200214,Indian Roti Cart,Barasat,Kachori & Sabzi
+200215,Rasoi Culture,Chittoor,Royal Desi Delight
+200216,Zaika Rasoi Point,Ludhiana,Heritage Thali
+200217,Curry Delight,Haridwar,Kebab Special
+200218,Hyderabadi House,Nagpur,Gharwali Rasoi
+200219,Indian Curry Rasoda,Angul,Indian Gravy Fusion
+200220,Urban Feast Junction,Rudrapur,Indian Flavors Reloaded
+200221,Roti Curry Rasoi,Latehar,Bamboo Shoot Curry
+200222,Chatori Rasoda,Shivpuri,Kachori & Sabzi
+200223,Chatpata Rasoda Lounge,Kendrapara,Indian Comfort Food
+200224,Swad Kitchen Delight,Dhule,Gujrati Kathiyawadi
+200225,Indian Chatpata Rasoi,Chittoor,Upma & Sheera
+200226,Swaad Rasoda,Betul,Dilliwala Thali
+200227,Spicy Platter,Bankura,Indian Butter Pot
+200228,Rasoi Nukkad,Mathura,Gravy Special
+200229,Urban Swad,Malda,Dilli Chole Bhature
+200230,Zaika Rasoi Point,Bareilly,Fusion Tandoor
+200231,Indian Zaika,Nizamabad,Rice-Based
+200232,Zaika Feast,Faridabad,Indian Kadai Magic
+200233,Maharani Rasoi,Kota,Ghar Ka Zaika
+200234,Curry Culture,Kurukshetra,Dosa Plaza
+200235,Chatpata Co.,Mau,Kebab Special
+200236,Rasoi Culture Co.,Seoni,Biryani House Special
+200237,Rice & Spice,Deoria,North Curry Flame
+200238,Biryani Blues,Burhanpur,Chaat Gully Taste
+200239,Curry Rasoda,Siliguri,Sikkimese
+200240,Curry Junction Express,Rewari,Dry Curry Specials
+200241,Curry Kingdom,Bardhaman,Feast of Thalis
+200242,Chatori Rasoda,Lohardaga,Gravy Special
+200243,Curry Delight India,Puri,Bengal Fish Kitchen
+200244,Hyderabadi House,Davanagere,Naan & More
+200245,Rasoda Bhawan Cart,Etawah,Smoky Tandoor
+200246,The Zaika Rasoi,Jaunpur,Hyderabadi
+200247,Masala Bhavan,Midnapore,Bengal Fish Kitchen
+200248,Maharaja Rasoda,Solapur,Indian Combo Kitchen
+200249,Indian Masaledar Treats,Balasore,Heritage Curry Kitchen
+200250,Roti Rasoi King,Puri,Kulcha & Curry
+200251,The Chatori Rasoi,Jagdalpur,Zaika-e-Dilli Thali
+200252,Rasoi Tiffin,Hassan,Kerala Banana Leaf
+200253,Ghar Ka Taste,Nizamabad,Desi Sweets Combo
+200254,Swad Rasoi Adda,Budaun,Gujrati Kathiyawadi
+200255,Curry Junction,Alipurduar,Sizzler Platter
+200256,Rasoi Nukkad,Karwar,Haryana Rasoi Flavors
+200257,Maharaja Biryani,Karnal,Tribal Spice Line
+200258,Chatpata Rasoi,Arambagh,Desi Fusion Carnival
+200259,The Curry Chulha,Barrackpore,Biryani House Special
+200260,Veggie Express,Dehradun,Royal Indian Bhog
+200261,Indian Diner Cart,Nayagarh,Gharwali Rasoi
+200262,Indian Masaledar Treats,Jalgaon,Indian Ghar Rasoi
+200263,Chulha Rasoi,Bankura,Thepla & Chunda
+200264,Chatpata Table Rasoi,Sundargarh,Indian Zaika Rasoi
+200265,Biryani Rasoi,Kendrapara,Indian Dal Tadka
+200266,Rasoda Culture Rasoi,Kalyan,Dal Makhani Feast
+200267,Rasoi Swaad,Budaun,Malvani
+200268,Chatori Bites,Nanded,Rasoi-e-Tandoor
+200269,Punjab Grill,Jamtara,Chaat Bazaar Bites
+200270,Zaika Chatpata Adda,Bathinda,Misal Pav
+200271,Curry Rasoi Mahal,Damoh,Rajasthani
+200272,Zaika Feast,Hospet,Kulcha & Curry
+200273,Maharaja Tandoor,Ulhasnagar,Zaika-e-Dilli Thali
+200274,Swad Bhawan,Jeypore,Indian Dal Tadka
+200275,Maharaja Feast House,Bhiwani,Kebab Special
+200276,Mirch Masala,Vadodara,Coconut-Based Dishes
+200277,Indian Diner Cart,Palwal,Pav Bhaji Special
+200278,Curry Chowk Cart,Karwar,Tibetan-Influenced
+200279,Swad Bhojan,Barrackpore,Kerala
+200280,Roti Thali Corner,Haveri,Indian Flavors Reloaded
+200281,Curry Treat House,Bhiwandi,Swaad Bhawan
+200282,Thali Treats,Balasore,Swaad Paratha House
+200283,The Rasoi Bhog Junction,Mandsaur,Regional Delicacy
+200284,Roti Thali Corner,Chennai,Kathi Roll Express
+200285,Swad Curry Delight,Chitradurga,The Curry Maharaja
+200286,Chatkara Express House,Sirsa,Farm-to-Table Indian
+200287,Bhojanam,Vadodara,Spice of Thali
+200288,Swad Curry Delight,Hoshangabad,Upma & Sheera
+200289,Chatori Rasoda Express,Mumbai,Kathiyawadi
+200290,Dilli Chatkara Point,Angul,Dilli Feast Specials
+200291,The Zaika Table,Kharagpur,Ghar Ki Daal Chawal
+200292,Chatori Rasoda Express,Puri,India Feast House
+200293,Namma Ooru Dosa,Guntur,Chatori Dilli Rasoi
+200294,Royal Chatori,Guntur,Gharwali Rasoi
+200295,Rasoi Tales House,Patna,Tandoori Thali Ghar
+200296,Curry Zaika,Jaunpur,Kashmiri
+200297,Swad Zaika Rasoi,Faridabad,Bengal Fish Kitchen
+200298,Rasoi Zaika,Moradabad,Urban Indian Curry
+200299,Bhojan Mahal,Ballia,Paneer Lovers Corner
+200300,Bhojan Point India,Nizamabad,Rajma Chawal
+200301,Rajdhani Rasoi,Ulhasnagar,Ghee-Rich Meals
+200302,Chatkara Bhawan,Ratlam,Biryani House Special
+200303,Rasoi Box,Yamunanagar,Swaad Bhawan
+200304,Swad Rasoi Adda,Gandhidham,Dum Pukht
+200305,The Chatpata Rasoi,Pune,Indian Pepper Pot
+200306,Swad Rasoi Adda,Dhanbad,Indian Street Eats
+200307,Curry Cart Rasoi,Madurai,South Tandoor Curry
+200308,Indian Zaika Cart,Jabalpur,Tribal Spice Line
+200309,Chilli & Chaat,Jabalpur,Rogan Josh Special
+200310,Zaika Caf√© House,Basti,Veg Thali Delight
+200311,Zaika Chulha Rasoi,Karimnagar,Masala Chulha Rasoi
+200312,Desi Rasoi Junction,Sitapur,Ghar Ki Daal Chawal
+200313,Indian Diner Cart,Guntur,Festive India
+200314,Veggie Rasoi,Udupi,Rogan Josh Special
+200315,Indian Rasoi King,Nellore,Indian Currywala
+200316,Rasoda Treats Rasoi,Guna,Butter Gravy Kitchen
+200317,Masala Bhog,Faridabad,Indian Maharaja Dishes
+200318,Swad Bhujanalay,Kolkata,Desi Soup & Curry
+200319,Chatkara Diner,Cooch Behar,Chatori Dilli Rasoi
+200320,Zaika Bhawan,Rourkela,Indian Dal Tadka
+200321,Zaika Chulha Rasoi,Sidhi,Litti Chokha
+200322,Curry Bhawan Express,Faizabad,Oriya
+200323,Rasoda Treats Rasoi,Khandwa,Desi Fusion Carnival
+200324,Masala Junction Rasoi,Nainital,Indian Rasoi Junction
+200325,Curry Rasoda House,Mathura,Tandoori Temptations
+200326,Indian Masaledar Treats,Tiruppur,Bengali
+200327,Hunger Adda,Latehar,Coastal
+200328,Annapurna Bhojanalaya,Cooch Behar,Assamese
+200329,Curry Chowk Cart,Kalyani,Butter Masala House
+200330,Masala Chatori,Basti,Modern Veg Rasoi
+200331,Chatori Thali,Gadag,Tulu
+200332,Zaika Caf√© House,Rudrapur,Regional Non-Veg
+200333,Rasoda Treats Rasoi,Varanasi,Ghee-Rich Meals
+200334,Indian Diner Cart,Bidar,Indian Soul Curry
+200335,Swad Dhamaka,Barasat,Classic Masala Curry
+200336,Dilli Chatkara Point,Gumla,Veg Rasoi-e-Zaika
+200337,Zaika Delight Rasoi,Palwal,Veggie Masala Ghar
+200338,Zaika Zest,Ranchi,Fry Curry House
+200339,Chatkara Rasoi Cart,Gaya,Tandoori Chicken BBQ
+200340,Swad Express Diner,Shivpuri,Festival Feast
+200341,Tandoori Nights,Durg,Ghar Wali Curry
+200342,Chatpata Adda,Jalpaiguri,Curry Carnival
+200343,Biryani Junction,Nellore,Tangy Tandoori
+200344,Bhojan Point India,Jamnagar,Chatori Chatpata Curry
+200345,Maharani Feast Point,Serampore,Bamboo Shoot Curry
+200346,Rasoda Hut India,Shimoga,Punjabi BBQ
+200347,Thali Junction,Ranchi,Spice of Thali
+200348,Rasoda House,Lucknow,North Curry Flame
+200349,Chatori Zaika Rasoi,Itarsi,Biryani House Special
+200350,Masala Rasoi Ghar,Sultanpur,Lassi & Paratha Zone
+200351,The Curry Lounge,Lucknow,Tribal Spice Line
+200352,Flavours of Punjab,Katwa,Kebab Special
+200353,Hunger Adda,Bokaro,Indian Flavors Reloaded
+200354,Swad Curry Delight,Nayagarh,Dilli Feast Specials
+200355,Chatori Rasoda,Gorakhpur,Roti Saag Makki
+200356,Rasoi Urban Kitchen,Sagar,Curry Dosa Corner
+200357,Paratha Plaza,Jhumri Tilaiya,Curry Leaf Cuisine
+200358,Thali Treats,Rewa,Butter Gravy Kitchen
+200359,Maharani Zaika,Chandigarh,Mutton Curry Rasoi
+200360,Curry Bhawan Express,Kalyani,Satvik Food
+200361,Ghar Ka Zaika,Raiganj,Sambar & Rasam
+200362,Spicy Rasoi,Navi Mumbai,The Rasoi Flame
+200363,The Urban Rasoda,Delhi,Indian Rasoi Junction
+200364,Swaad Rasoda,Haridwar,Indian Curry Stories
+200365,Chatori Treat Junction,Saharanpur,Chatori Dilli Rasoi
+200366,Masala Junction,Rampur,Rasoi-e-Tandoor
+200367,Biryani Blues,Jalgaon,Biryani Mix Fusion
+200368,Masala Delight Chowk,Chitradurga,Tandoori Grill
+200369,Curry King Rasoi,Jamshedpur,Temple Food
+200370,Swad Adda Point,Kalyani,India Feast House
+200371,Rasoda Hut India,Gumla,Tribal Fusion
+200372,Chatkara Table,Deoria,Andhra
+200373,The Swad House,Kolkata,Heritage Curry Kitchen
+200374,Curry Delight India,Shivpuri,Misal Pav
+200375,Indian Zaika King,Moradabad,Idli Heaven
+200376,Tandoor Curry Point,Durg,India Feast House
+200377,Dilli Zaika,Raipur,India Tandoor Rasoi
+200378,The Urban Feast,Mandya,Sambar & Rasam
+200379,Urban Swad Point,Agra,Fusion Dilli Zaika
+200380,The Zaika Aangan,Cuttack,Tandoori Delight Zone
+200381,Dilli Rasoda Junction,Rajmahal,Butter Gravy Kitchen
+200382,Dilli Swad,Tamluk,Masala Chulha Rasoi
+200383,Rasoda Bhawan Cart,Mysuru,Less Oil Cuisine
+200384,Desi Feast Rasoi,Jodhpur,Thali Special
+200385,Flavour Junction,Katwa,Lunch Tiffin
+200386,Pure Veg Point,Udaipur,South Indian
+200387,Swad Co. Rasoi,Narsinghpur,Indian Dal Tadka
+200388,Chatori Rasoda Express,Satna,Flavours of Ghar
+200389,Chatpata Junction,Mumbai,South Masala Delight
+200390,The Curry Co.,Ambikapur,Veg Thali Delight
+200391,Rasoi Delight Cart,Pakur,Kerala
+200392,Rasoi Tales,Chaibasa,Butter Chicken Special
+200393,Biryani Blues,Raichur,Dal Makhani Feast
+200394,Namma Ooru Dosa,Durg,Baati Chokha Flavors
+200395,Rasoi Ghar,Dhule,Rasoi-e-Ghar
+200396,Spicy Treat Rasoi,Angul,Fusion Tandoor
+200397,Tandoori Delight Caf√©,Rourkela,Indian Combo Kitchen
+200398,Masala Bhog,Bhatpara,Festive India
+200399,Bhojan Cart Express,Sangli,Non-Veg Delight
+200400,Veggie Junction,Nizamabad,Momos and More
+200401,The Zaika Table,Durg,Tandoori Temptations
+200402,Swad Adda Point,Balasore,Swaad Bhawan
+200403,Roti Rasoda,Amritsar,Aloo Paratha Specials
+200404,Zaika Lounge,Burhanpur,Fusion Tandoor
+200405,Masala Delight Chowk,Hazaribagh,Thepla & Chunda
+200406,Zaika Thali,Shimla,Flavours of Ghar
+200407,Zaika Feast Point,Mandsaur,South Masala Delight
+200408,Rasoi Nation,Nayagarh,Kathi Roll Express
+200409,Masala Delight,Bhopal,Rajasthani
+200410,Dilli Swad,Rampurhat,Classic Masala Curry
+200411,Swad Rasoi,Rewari,Litti Chokha
+200412,Masala Feast,Latehar,India Feast House
+200413,Curry Masaledar Junction,Hoshangabad,Indian Rasam Thali
+200414,Urban Bhojan,Jamshedpur,Dosa Plaza
+200415,Spice Box,Alipurduar,Andhra
+200416,Chatori Thali,Bijapur,Coconut-Based Dishes
+200417,Swaad Adda,Jagdalpur,Rasoi-e-Tandoor
+200418,Rasoi Bhawan Chowk,Salem,Street Food
+200419,Indian Delight Kitchen,Bhubaneswar,Khichdi Varieties
+200420,Biryani Bhawan,Raichur,Spice Trail India
+200421,Curry Bhawan Express,Chatra,Indian Rasam Thali
+200422,Nukkad Adda,Kochi,Biryani & Kebab
+200423,Bombay Bistro,Ichalkaranji,Festive Masala Curry
+200424,The Rasoi Cart,Baripada,Manipuri
+200425,Curry Kingdom,Moradabad,Spice of Thali
+200426,Zaika Cart,Nanded,Combo of Rasoi
+200427,Indian Chatpata Rasoi,Mysuru,Indian Combo Kitchen
+200428,Curry Mandi,Ujjain,Desi Fast Food
+200429,Biryani House India,Jhansi,Festive Masala Curry
+200430,Rasoi Fusion Cart,Chandannagar,Gharwali Rasoi
+200431,Swad Indian Kitchen,Moradabad,Heritage India Zaika
+200432,The Dilli Rasoi Cart,Bhubaneswar,Bhakri & Sabzi
+200433,Masaledaar Diner,Serampore,Desi Fast Food
+200434,Curry Leaf Caf√©,Nellore,Indian Butter Pot
+200435,Indian Zaika,Hyderabad,Regional Rasoi Rasam
+200436,Indian Taste Cart,Ludhiana,Flavours of Ghar
+200437,Indian Vyanjan,Bhubaneswar,Tangy Tandoori
+200438,Curry Nukkad,Coimbatore,Chatori Chatpata Curry
+200439,Roti Delight Rasoda,Barasat,Urban Zaika Line
+200440,Chatpata Rasoi,Mangalore,Chatori Chatpata Curry
+200441,Rasoi Express,Bardhaman,Less Oil Cuisine
+200442,Ghar Ka Rasoda,Hyderabad,Curry Leaf Rasoda
+200443,Taste Sutra,Karwar,Combo of Rasoi
+200444,Biryani Urban Spot,Amritsar,Biryani Special
+200445,Dosa Diner,Malda,Seafood Special
+200446,Dosa Rasoi,Balasore,Bamboo Shoot Curry
+200447,Maharani Chatori,Rewa,Momos and More
+200448,Chatpata Rasoi,Vasai,Traditional South
+200449,Curry Lounge Rasoi,Gandhidham,Kulcha & Curry
+200450,Tandoori Tales,Shahjahanpur,Masala-e-Magic Platter
+200451,Chatpata Lounge,Narsinghpur,Less Oil Cuisine
+200452,Tandoori Kitchen,Jhansi,Tribal
+200453,Swad Indian Kitchen,Baripada,Ghar Wali Curry
+200454,Roti Rasoi Junction,Jalpaiguri,BBQ Indian
+200455,Curry Delight India,Udupi,Flavours of Ghar
+200456,Swad Co. Rasoi,Guna,Bamboo Shoot Curry
+200457,Curry Kingdom,Kendrapara,Malvani
+200458,Bhojan Bhavan,Etawah,Curry Leaf Cuisine
+200459,Veg Delight,Solapur,Indian Festive Platter
+200460,Tandoor Bhawan,Roorkee,Feast of Thalis
+200461,Flavours of Punjab,Durg,Fusion Thali
+200462,Maharaja Tandoor,Etawah,Evening Snacks
+200463,Bhojan Bhavan,Sangli,Indian Zaika Rasoi
+200464,Chulha Ghar,Warangal,Festive India
+200465,Spicy Treat Rasoi,Ambala,Idli Heaven
+200466,Indian Delight Kitchen,Ichalkaranji,The Royal Feast
+200467,Maharaja Tandoor,Rewari,Tandoori
+200468,The Curry Kitchen,Etawah,Lentil-Based
+200469,Ghar Ka Taste,Haldia,Kulcha & Curry
+200470,Roti Rasoi Palace,Bhubaneswar,Assamese
+200471,Swad Bhojan,Rewari,Hyderabadi
+200472,The Chatpata Table,Shahdol,South Masala Delight
+200473,Desi Curry House,Kochi,Butter-Based Dishes
+200474,Rasoi Table,Kurukshetra,Authentic Desi Flavors
+200475,Bhojan Junction,Kalyan,Ghar Ki Daal Chawal
+200476,Swad Indian Kitchen,Dhule,Dilli Feast Specials
+200477,Masala Roti Point,Haveri,Indian Kitchen Carnival
+200478,Royal Curry Rasoi,Ulhasnagar,Momos and More
+200479,Maharaja Tandoor,Jagdalpur,Indian Firepot
+200480,Maharaja Feast House,Barrackpore,Manipuri
+200481,Nukkad Adda,Koppal,Authentic Desi Flavors
+200482,Rasoda Culture Rasoi,Hassan,Tandoori Delight Zone
+200483,Biryani Treat Rasoi,Jamtara,Rajasthani Royal Rasoi
+200484,Masaledaar Diner,Chikkamagaluru,Kerala Banana Leaf
+200485,Flavour Junction,Thane,Tangy Bhukkad Box
+200486,Dosa Diner,Bhiwani,South Tandoor Curry
+200487,Indian Rasoi Express,Bhatpara,The Rasoi Flame
+200488,Rasoi Gully,Tumakuru,Fusion Dilli Zaika
+200489,Urban Swad,Panipat,Thali Special
+200490,Roti Rasoi King,Koraput,Lentil-Based
+200491,Chatkara Diner,Hospet,Indo-Tibetan Combo
+200492,Masala Feast,Korba,Indian Vegan Pot
+200493,Bhukkad Gully,Deoria,Fusion Indian
+200494,Zaika Mahal,Bhopal,Dilliwala Thali
+200495,Rasoi Tiffin,Kochi,Tulu
+200496,Royal Chatori,Nellore,Roti Curry Dal Express
+200497,Desi Flavors,Delhi,Masala-Based
+200498,Rasoi Zaika,Gaya,Urban Zaika Line
+200499,Zaika Bhawan,Faizabad,Maharaja Thali
+200500,Curry Treat House,Mangalore,Tandoori Grill
+200501,The Desi Rasoi,Hisar,Indian Kitchen Carnival
+200502,Tandoori Rasoi Spot,Coimbatore,Kathi Roll Express
+200503,Bombay Zaika,Dharwad,Millet Fusion
+200504,Curry Corner Caf√©,Barasat,Manipuri
+200505,Curry Mandi,Korba,Satvik Food
+200506,Chatkara Mahal,Karnal,Curry Carnival
+200507,Desi Feast Rasoi,Mathura,Fusion Indian
+200508,Spice Villa,Gorakhpur,Chatori Dilli Rasoi
+200509,Delhi Belly Diner,Raebareli,Assamese
+200510,Dilli Chatkara Point,Daltonganj,Gujrati Kathiyawadi
+200511,Indian Rasoi King,Bargarh,Veg Rasoi-e-Zaika
+200512,Swad Spot,Guntur,Masala Mix Rasoi
+200513,Zaika Caf√© House,Deoria,Udupi
+200514,Curry Fiesta Rasoi,Durg,The Curry Maharaja
+200515,Biryani Urban Spot,Darjeeling,Butter Masala House
+200516,Chatori Chowk,Gumla,Sizzling Indian
+200517,Zaika Rasoi Point,Faizabad,Flavours of Ghar
+200518,Masala Delight,Raebareli,Kathiyawadi
+200519,Masala Roti Point,Akola,Dilli Chole Bhature
+200520,Maharani Chatori,Angul,Millet Fusion
+200521,Rasoi Chowk,Ahmedabad,Curry Leaf Rasoda
+200522,Ghar Ka Rasoda,Nellore,Tangy Bhukkad Box
+200523,Maharaja Tandoor,Rajmahal,Biryani Bhawan
+200524,Swad Kitchen Delight,Ahmedabad,Zaika-e-Fusion
+200525,Desi Flavors,Ajmer,Modern Veg Rasoi
+200526,Chatkara Caf√©,Jalgaon,Indian Maharaja Dishes
+200527,Rasoda Bhawan Cart,Phulbani,Maharashtrian
+200528,Biryani Rasoi,Nanded,Dhokla & Farsan
+200529,The Chatori Rasoi,Mau,Grand Indian Grill
+200530,Dilli Rasoi,Baranagar,Thepla & Chunda
+200531,Swad Kitchen Delight,Jamnagar,Chettinad
+200532,Biryani Junction,Balasore,Coconut-Based Dishes
+200533,Dosa Diner,Kendrapara,Gujarati
+200534,Rasoda Rasoi,Navi Mumbai,Coastal
+200535,Curry Rasoda,Navi Mumbai,Kathiyawadi
+200536,Dosa Diner,Coimbatore,Urban Indian Curry
+200537,The Curry Pot,Hassan,Tandoori
+200538,The Swad House,Rewa,Heritage Recipes
+200539,Indian Delight Kitchen,Sitapur,Fish Curry Heaven
+200540,Ghar Ka Zaika,Sidhi,Indian Rasam Thali
+200541,Ghar Ka Bhojan,Surat,Kebab Special
+200542,Chatkara Express House,Cuttack,Curry Carnival
+200543,Curry King Rasoi,Mathura,Kerala
+200544,Zaika Mahal,Bhagalpur,Sindhi
+200545,Ghar Se Rasoi,Bengaluru,Grand Indian Grill
+200546,Bhojanam,Alipurduar,Naan & More
+200547,Veggie Curry,Guna,Fusion Indian
+200548,Indian Treats,Haldwani,Haryana Rasoi Flavors
+200549,Masala Chatori,Bhavnagar,Khichdi House India
+200550,Chatpata King,Tamluk,Veg Thali Delight
+200551,The Curry Craft,Nanded,Dilli Chole Bhature
+200552,Tandoori Nights,Shimoga,Millet-Based
+200553,Zaika Rasoda,Ballia,Manipuri
+200554,Veggie Express,Baripada,Organic Indian
+200555,Urban Swad Point,Jammu,Assamese
+200556,Flavour Junction,Durg,Dilli Chole Bhature
+200557,Dosa Diner,Ahmedabad,Indian Zaika Rasoi
+200558,Veggie Zest,Rudrapur,Kerala Banana Leaf
+200559,Masala Delight Chowk,Raiganj,Puran Poli Meals
+200560,Rasoda Culture Rasoi,Jammu,Tandoori Chicken BBQ
+200561,Curry Rasoi Junction,Daltonganj,Indian Zaika Rasoi
+200562,Urban Zaika,Kolkata,Organic Indian
+200563,South Thali Rasoi,Shahdol,Dosa Plaza
+200564,Butter Chicken Express,Kurukshetra,Desi Fusion Carnival
+200565,Royal Curry Rasoi,Bareilly,Curry Leaf Rasoda
+200566,The Zaika Ghar,Sambalpur,Dosa Plaza
+200567,Rasoda Hut India,Dhenkanal,Lunch Tiffin
+200568,Curry Treat House,Hoshangabad,Spicy Food
+200569,Indian Masaledar Treats,Lohardaga,Rajma Chawal
+200570,Curry Cart Rasoi,Karimnagar,Breakfast Special
+200571,The Dilli Haat,Howrah,Rasoi Express Meals
+200572,Zaika Caf√© House,Guna,Modern Veg Rasoi
+200573,Paratha Plaza,Bharatpur,Jain Fusion Food
+200574,The Rasoi Bhog,Asansol,Tribal Spice Line
+200575,The Rasoi Cart,Nayagarh,South Masala Delight
+200576,Urban Swad Point,Saharanpur,Fusion Dilli Zaika
+200577,The Curry Pot,Kota,Pure Indian Platters
+200578,Urban Rasoda,Tiruchirappalli,Dry Curry Specials
+200579,Tandoori Delight Caf√©,Bhatpara,Idli-Dosa Combos
+200580,Indian Rasoi Tales,Nayagarh,Indian Dal Tadka
+200581,Rasoi Culture,Jeypore,Indian Zaika Rasoi
+200582,Maharaja Rasoda,Jalgaon,Indian Currywala
+200583,Curry Aangan,Baripada,Chettinad
+200584,Masala Rasoi Ghar,Vijayawada,Mughlai
+200585,The Curry Bowl,Bharatpur,Millet Fusion
+200586,Indian Zaika King,Rourkela,Indian Kadai Magic
+200587,Swad Sagar,Dhanbad,Spice Trail India
+200588,Swad Bhojan,Ajmer,Dry Curry Specials
+200589,Bhukkad Gully,Nanded,Regional Rasoi Rasam
+200590,Curry Junction Express,Daltonganj,Tandoori
+200591,Dosa Rasoi,Barasat,Feast of Thalis
+200592,Desi Tandoor Spot,Vijayawada,Rasoi-e-Ghar
+200593,The Roti Rasoi Co.,Daltonganj,Sindhi
+200594,Urban Rasoda,Kumbakonam,Grilled Masala Zaika
+200595,Chulha Point,Thane,Curry Leaf Cuisine
+200596,Chatpata Curry,Tiruppur,Feast of Thalis
+200597,Zaika Delight Rasoi,Giridih,Lentil Lovers Special
+200598,Zaika Grill House,Latehar,Rajma Chawal
+200599,Butter Chicken Express,Belgaum,Fusion Thali
+200600,Chatpata Chowk,Jalpaiguri,Aloo Paratha Specials
+200601,Roti Rasoi Junction,Howrah,Thepla & Chunda
+200602,Curry Mandi,Barasat,Grilled Masala Zaika
+200603,The Rasoi Bhog,Amritsar,Biryani Mix Fusion
+200604,Urban Feast Junction,Lucknow,Homestyle
+200605,Rasoi Nukkad,Kochi,Tandoori Chicken BBQ
+200606,Curry Zaika,Gulbarga,Indian Butter Pot
+200607,Swaad Adda,Itarsi,Indo-Tibetan Combo
+200608,Chilli & Chaat,Phulbani,Tribal Spice Line
+200609,Bhojan Bhavan,Jabalpur,Indian Soul Curry
+200610,Ghar Ka Taste,Vellore,Momo Rasoi
+200611,The Curry Chulha,Itarsi,Masala Bistro
+200612,Curry Delight India,Karwar,Seafood Special
+200613,Dilli Tandoori,Lohardaga,Khichdi Varieties
+200614,Ghar Ka Zaika,Sundargarh,Curry Leaf Delight
+200615,Desi Urban Bites,Alipurduar,Heritage Curry Kitchen
+200616,Spice Box,Tiruppur,Veggie Masala Ghar
+200617,Indian Rasoi Tales,Durgapur,Tiffin Treats India
+200618,Indian Swad,Deoria,The Royal Feast
+200619,Maharaja Feast House,Kalyani,Indian Rasoi Daily
+200620,The Chaat Street,Chandannagar,Rasoi-e-Ghar
+200621,Dilli Tandoori,Siliguri,Dry Curry Specials
+200622,Rasoda House,Kolkata,Handi Specials
+200623,Ruchi Bhavan,Coimbatore,Sizzling Indian
+200624,South Curry House,Yamunanagar,Indian Taste Pot
+200625,Urban Dosa House,Ichalkaranji,Awadhi
+200626,Swad Adda Rasoi,Panipat,Pani Puri Special
+200627,Chatori Rasoi,Hisar,Heritage Recipes
+200628,Zaika Gully Kitchen,Vellore,Tribal
+200629,Curry Treat House,Gwalior,Tandoori Grill
+200630,Indian Rasoi Tales,Haridwar,Roti-Sabzi
+200631,Tandoori Rasoi Caf√©,Guwahati,Spicy Food
+200632,Chatori Gali,Baripada,Regional Non-Veg
+200633,Biryani Junction,Bhavnagar,Regional Rasoi Rasam
+200634,Chatkara Express House,Dharwad,Bhakri & Sabzi
+200635,Curry Lounge Rasoi,Indore,Farm-to-Table Indian
+200636,Swad Rasoi,Malda,Fry & Curry House
+200637,Tandoor Bhawan,Prayagraj,Seafood Special
+200638,Curry Rasoi,Indore,Indian Flavors Reloaded
+200639,Roti Rasoi Junction,Sitapur,Hyderabadi
+200640,Chatkara Bhawan,Rampurhat,Coastal
+200641,Swaad Bhawan,Chikkamagaluru,Tribal
+200642,Tandoori Rasoi Caf√©,Etawah,Biryani-e-Zaika
+200643,Desi Chatpata Co.,Rajmahal,Veg Ghar Thali
+200644,Roti Rasoi Palace,Jaunpur,Ghar Wali Curry
+200645,Chatpata Bhawan,Dharwad,Indian Soul Curry
+200646,The Curry Lounge,Tiruchirappalli,Chaat Bazaar Bites
+200647,Zaika Cart,Phulbani,Maharashtrian
+200648,Chatpata Adda,Ghaziabad,Tandoori
+200649,Curry Magic,Sundargarh,Naga
+200650,The Dilli Haat,Ranchi,Tandoori
+200651,Spice Box,Yadgir,Chatori Chatpata Curry
+200652,Masala Mill,Shimla,North Curry Flame
+200653,The Curry Bowl,Tiruppur,Mutton Curry Rasoi
+200654,Rasoi Curry Table,Bareilly,Tibetan-Influenced
+200655,Zaika Rasoi Point,Shimoga,Desi Fast Food
+200656,Dilli Delight Rasoi,Bidar,BBQ Indian
+200657,Masala Delight,Haridwar,Fish Curry Heaven
+200658,Chatkara Point,Bareilly,Aloo Paratha Specials
+200659,Indian Treats,Thane,Indian Ghar Rasoi
+200660,Swad Paratha House,Kochi,Indian Combo Kitchen
+200661,Masala Bhavan,Mandya,Chatpata Rasoi Box
+200662,Mirch Masala,Mau,Lassi & Paratha Zone
+200663,Pind Punjab,Latehar,Heritage Curry Kitchen
+200664,Chatkara Diner,Amravati,Mughlai
+200665,Curry Mandi,Delhi,Indian Taste Pot
+200666,Rasoi Delight Cart,Jaipur,Coconut-Based Dishes
+200667,Chatkara Table,Hazaribagh,Thepla & Chunda
+200668,Royal Rasoi,Basti,Regional Non-Veg
+200669,Bhojan Cart Express,Nellore,Misal Pav
+200670,Roti Table Express,Jodhpur,Sindhi
+200671,Masala Caf√© Rasoi,Rohtak,Evening Snacks
+200672,Desi Curry House,Tiruppur,Curry Leaf Rasoda
+200673,Rasoda Rasoi,Bidar,Goan Prawn Curry
+200674,Flavors of India,Ambala,Curry Leaf Rasoda
+200675,Bhojan Rasoda,Baharampur,Ayurvedic Cuisine
+200676,Masala Bhavan,Panipat,Pure Indian Platters
+200677,Bombay Bistro,Yamunanagar,Urban Indian Curry
+200678,Zaika Caf√© House,Madurai,Indian Maharaja Dishes
+200679,Tandoori Dilli,Burhanpur,Sizzler Platter
+200680,The Samosa Co.,Jalna,Festival Feast
+200681,Maharani Meals,Madurai,Sindhi
+200682,Chatkara Point,Rewa,Swaad Bhawan
+200683,Tandoori Dilli,Bharatpur,Indian Street Eats
+200684,Rasoi Tandoor,Haldwani,Rajasthani Royal Rasoi
+200685,Rasoi Delight Cart,Gaya,Bengali
+200686,The Urban Feast,Howrah,Malvani
+200687,Zaika Chatpata Adda,Srinagar,Chettinad
+200688,Spice Villa,Palwal,Rajma Chawal
+200689,Spice Box,Dhanbad,Biryani & Kebab
+200690,Roti Rasoi King,Rampurhat,Tiffin Treats India
+200691,Indian Express Rasoi,Faridabad,Smoky Tandoor
+200692,Thali Treats,Kalyani,Lentil Lovers Special
+200693,Masala Caf√© Rasoi,Sidhi,Mutton Curry Rasoi
+200694,Ghar Ka Taste,Sundargarh,Indian Kitchen Carnival
+200695,Tandoori Kitchen,Bhubaneswar,Coastal
+200696,Maharani Rasoi,Indore,Tribal Fusion
+200697,Punjab Grill,Rampur,Indian Butter Pot
+200698,Indian Rasoi Tales,Yamunanagar,Breakfast Special
+200699,Rasoi Bhawan Cart,Kalyan,Momo Rasoi
+200700,Curry Wagon,Ranchi,Lentil-Based
+200701,Dilli Chatkara Point,Midnapore,Puran Poli Meals
+200702,Swadish Bites,Solapur,Street Food
+200703,Chatkara Treats,Baripada,Modern Indian
+200704,Bhojan Heritage Rasoi,Phulbani,Haryana Rasoi Flavors
+200705,Nukkad Adda,Jaipur,Ghar Ka Zaika
+200706,The Urban Feast,Bhatpara,Roti Curry Dal Express
+200707,Curry Chowk Cart,Mathura,Litti Chokha
+200708,Chatpata Junction,Puri,Farm Cuisine India
+200709,Chatori Treat Junction,Prayagraj,Dal Bati Churma
+200710,Maharani Feast Point,Chandigarh,Indian Rasoi Junction
+200711,The Zaika Rasoi,Chitradurga,Royal Indian Bhog
+200712,Rasoi Bhawan Cart,Rourkela,Authentic Desi Flavors
+200713,Curry Treat House,Mangalore,Mutton Curry Rasoi
+200714,Maharani Chatori,Varanasi,Butter Masala House
+200715,Zaika Thali,Bhopal,Baati Chokha Flavors
+200716,The Rasoi Bhog Junction,Agra,Dinner Thali
+200717,Roti Zaika,Chandannagar,Naan & More
+200718,Rasoi Zaika,Shimla,Masala Bistro
+200719,Curry Chowk Cart,Gulbarga,Spiced Buttermilk Trail
+200720,Indian Masaledar Treats,Ulhasnagar,Mutton Curry Rasoi
+200721,Indian Treats,Srinagar,Rice Bowl India
+200722,Indian Treats,Bardhaman,Indian Rasoi Daily
+200723,The Rasoi Bhog Junction,Hubli,Indian Rasoi Junction
+200724,Chatkara Express House,Neemuch,Rasoi-e-Ghar
+200725,Dilli Bhojan,Karimnagar,Kadhai-e-Zaika
+200726,Tandoor Temptations,Seoni,Curry Carnival
+200727,Curry Junction,Jeypore,Rice-Based
+200728,Desi Zaika,Gadag,Thali Bhavan Specials
+200729,Bhojan Heritage Rasoi,Gaya,Combo of Rasoi
+200730,Zaika Caf√© House,Karwar,Indian Rasoi Junction
+200731,Swadish Rasoi,Tiruppur,Manipuri
+200732,Desi Curry House,Gandhidham,Khichdi House India
+200733,Zaika Feast Point,Amravati,Fusion Indian
+200734,Curry Rasoi Mahal,Balasore,Mixed Indian Rasoi
+200735,Chatkara Mahal,Jalor,Tandoori Grill
+200736,Swaad Rasoda,Raiganj,Indian Pepper Pot
+200737,Dilli Rasoda Junction,Vasai,Modern Indian
+200738,Chaat Chaska,Mandsaur,Ghee-Rich Meals
+200739,Rasoda King,Bhavnagar,Bihari
+200740,Chulha Rasoi,Malda,Bhakri & Sabzi
+200741,The Chaat Street,Sundargarh,Modern Indian
+200742,The Curry Pot,Chandigarh,Upma & Sheera
+200743,Biryani Cart,Bengaluru,Sindhi
+200744,Urban Bhojanalay,Ballia,Smoky Tandoor
+200745,Zaika Gully Kitchen,Kalyani,Authentic Desi Flavors
+200746,The Curry Pot,Ahmedabad,Farm-to-Table Indian
+200747,Tandoori Bhavan,Durg,Kerala
+200748,Swaad Co.,Karnal,Kerala Banana Leaf
+200749,Urban Curry Express,Meerut,Rasoi-e-Tandoor
+200750,Rasoi Bhawan Cart,Gulbarga,Maharashtrian
+200751,Curry Corner Caf√©,Kalyan,Fusion Indian
+200752,Indian Flavors Cart,Sultanpur,Masala Mix Rasoi
+200753,Ruchi Bhavan,Chitradurga,Feast of Thalis
+200754,Curry Zaika,Noida,Handi Specials
+200755,The Thali Rasoi,Koppal,Desi Fusion Carnival
+200756,The Paratha House,Shivpuri,Desi Fast Food
+200757,Bhojan Mahal,Panipat,Smoky Tandoor
+200758,The Roti Bhog,Giridih,Butter Gravy Kitchen
+200759,Bombay Curry House,Bharatpur,The Rasoi Flame
+200760,Rasoi Table,Satna,Less Oil Cuisine
+200761,Chatpata Bhawan,Dharwad,Royal Kitchen Recipes
+200762,Curry Plaza,Haldwani,Masala Mix Rasoi
+200763,Desi Feast Rasoi,Dharwad,BBQ Indian
+200764,Bhojan Point India,Basti,Punjabi
+200765,Desi Urban Bites,Kalyani,Rasoi Express Meals
+200766,Desi Bhawan,Chandigarh,Kerala Curry Special
+200767,Zaika Delight Rasoi,Bolangir,Khichdi House India
+200768,Urban Rasoda,Ludhiana,Kadhai-e-Zaika
+200769,Dilli Chatpata Rasoi,Panipat,Gujarati
+200770,Rasoi Heritage,Bhavnagar,Royal Indian Bhog
+200771,Indian Flavors Cart,Ludhiana,Indian Flavors Reloaded
+200772,Chulha Rasoi,Katni,Indian Fry House
+200773,Curry Delight India,Akola,Veg Maharani Rasoi
+200774,Taste Sutra,Rampurhat,Seafood Special
+200775,Curry Bhavan,Neemuch,Regional Delicacy
+200776,Chatkara Rasoi Cart,Nanded,Spicy Food
+200777,South Curry House,Udaipur,Curry Carnival
+200778,Rasoi Rasoi,Gaya,Kachori & Sabzi
+200779,Chatori Thali,Nagpur,Festival Feast
+200780,Veg Rasoi Express,Gadag,Fish Curry Heaven
+200781,Dilli Swad,Surat,Indian Gravy Fusion
+200782,Tandoori Kitchen Express,Daltonganj,Lassi & Paratha Zone
+200783,Indian Roti Cart,Chikkaballapur,Regional Non-Veg
+200784,Zaika Adda House,Mysuru,Zaika-e-Fusion
+200785,Bhojan Cart,Gandhidham,Kadhai-e-Zaika
+200786,Swad Bhojan,Chikkaballapur,The Rasoi Flame
+200787,Curry Rasoda House,Tirunelveli,Curry Leaf Cuisine
+200788,Chatpata Lounge,Mandya,Indian Fry House
+200789,Spice Box,Budaun,Kerala Curry Special
+200790,Rasoi Dhamaka,Davanagere,Indo-Tibetan Combo
+200791,Urban Swad Point,Jalor,Swaad Paratha House
+200792,Chatkara King Rasoi,Vasai,Maharashtrian Meal
+200793,Zaika Grill,Rewa,Misal Pav
+200794,The Veggie Bite,Srinagar,Indian Rasoi Daily
+200795,Ghar Ki Thali,Chhindwara,Punjabi
+200796,Rasoi Table,Bally,Curry Carnival
+200797,The Veggie Bite,Hoshangabad,Flavours of Ghar
+200798,Ghar Ki Rasoi,Hisar,Pav Bhaji Special
+200799,Rasoi Nukkad,Kurukshetra,Bengal Fish Kitchen
+200800,The Thali Rasoi,Chandigarh,Kashmiri
+200801,Curry Rasoi Mahal,Ulhasnagar,Haryana Rasoi Flavors
+200802,Maharaja Treats,Gadag,Less Oil Cuisine
+200803,Zaika Cart,Sitapur,Coconut-Based Dishes
+200804,Zaika Grill,Jalor,Roti Saag Makki
+200805,Swad Kitchen Delight,Mathura,Chole Bhature
+200806,Chaat Junction,Koraput,Jain Fusion Food
+200807,Roti Rasoda,Betul,Indian Comfort Food
+200808,Tandoori Delight Caf√©,Guntur,Indian Maharaja Dishes
+200809,The Spice Affair,Rajmahal,South Masala Delight
+200810,Ghar Ka Zaika,Ludhiana,Fry & Curry House
+200811,Rasoi Table,Aurangabad,North Curry Flame
+200812,Flavors of India,Daltonganj,Homestyle
+200813,Urban Tandoor,Hospet,Tribal Spice Line
+200814,Rasoi Ghar India,Haldwani,Punjabi BBQ
+200815,Desi Chatpata Co.,Rajmahal,Classic Masala Curry
+200816,Tandoor Temptations,Midnapore,Farm-to-Table Indian
+200817,Bhojanam,Angul,Curry Mix Kitchen
+200818,Chatkara Rasoda,Morena,Regional Delicacy
+200819,Roti Delight Rasoda,Kota,Chaat Bazaar Bites
+200820,Rasoi Bhawan Cart,Bokaro,Malvani
+200821,Rasoi Curry Table,Neemuch,Seafood Special
+200822,Swad Curry Delight,Alipurduar,Masala-Based
+200823,Curry Fiesta Rasoi,Shimla,Rasoi-e-Tandoor
+200824,Curry Plaza,Faizabad,Indian Fry House
+200825,Rasoi Tandoor,Vadodara,Butter-Based Dishes
+200826,Masala Mill,Warangal,Indian BBQ
+200827,Chatori Tiffin,Satna,Oriya
+200828,Rasoda Point India,Vidisha,Curry Leaf Delight
+200829,Urban Swad Point,Budaun,Mixed Indian Rasoi
+200830,The Zaika Aangan,Mandsaur,Biryani & Handi
+200831,Chatpata King,Barasat,Sikkimese
+200832,Swad Express,Neemuch,Desi Sweets Combo
+200833,Rasoi Zaika,Mysuru,Tribal Spice Line
+200834,Swad Adda Point,Solapur,Desi Soup & Curry
+200835,Ruchi Bhavan,Nellore,Jain
+200836,Curry Bhavan,Firozabad,Paneer Lovers Corner
+200837,Masala Mill,Haridwar,Heritage India Zaika
+200838,South Thali Rasoi,Chikkamagaluru,Rice-Based
+200839,Veggie Rasoi,Chatra,Hyderabadi
+200840,Roti Bhawan,Sundargarh,Regional Delicacy
+200841,Rasoi Swaad,Shahdol,Ghar Se Zaika
+200842,Biryani House India,Sagar,Spiced Buttermilk Trail
+200843,Chatori Chowk,Bellary,Indian Gravy Fusion
+200844,Dilli Bhojan,Chaibasa,Temple Food
+200845,Chulha Rasoi,Cuttack,Chettinad
+200846,Curry Culture,Maheshtala,Tandoor-e-Zaika
+200847,The Veggie Bite,Dhule,Masala Lovers Hub
+200848,Swadish Bites,Rourkela,Kebab Special
+200849,Biryani House India,Bolangir,Tribal
+200850,Ghar Ka Zaika,Vellore,South Indian Fusion
+200851,Dilli Curry House,Bharatpur,Pure Vegetarian
+200852,Bhojan Rasoda,Neemuch,North Curry Flame
+200853,Chulha Ghar,Dhule,Maharashtrian
+200854,Spicy Platter,Tirunelveli,Breakfast Special
+200855,Zaika Feast Point,Akola,Royal Indian Bhog
+200856,Maharaja Treats,Rohtak,Zaika-e-Dilli Thali
+200857,Curry Lounge Rasoi,Nayagarh,Ghar Ki Daal Chawal
+200858,Desi Curry Corner,Kalyan,Smoky Tandoor
+200859,Maharani Zaika,Bhusawal,Veg Rasoi-e-Zaika
+200860,Indian Vyanjan,Tumakuru,Coastal
+200861,Roti Curry Rasoi,Delhi,Temple Food
+200862,Maharani Chatori,Chitradurga,Dhokla & Farsan
+200863,Indian Masaledar Treats,Kalyani,Millet-Based
+200864,Flavours of Punjab,Angul,Desi Soup & Curry
+200865,Spice Box,Ahmedabad,Baati Chokha Flavors
+200866,Rasoda Culture Rasoi,Bhagalpur,Biryani Bhawan
+200867,Zaika Delight Rasoi,Jodhpur,Authentic Desi Flavors
+200868,Chatpata Rasoda Lounge,Roorkee,Chatori Dilli Rasoi
+200869,The Curry Craft,Satna,Masala-e-Magic Platter
+200870,Curry Kingdom,Salem,Chatori Dilli Rasoi
+200871,Rasoi Table,Bhadrak,Tandoori Chicken BBQ
+200872,Swadish Rasoi,Jalor,Upma & Sheera
+200873,Urban Feast Junction,Kolar,Feast of Thalis
+200874,Maharaja Treats,Kurukshetra,Sizzling Indian
+200875,Rasoda Point India,Jagdalpur,North Indian
+200876,The Curry Chulha,Ghaziabad,Andhra Meal Thali
+200877,Swad Bhawan,Burhanpur,Jain
+200878,Masala Feast,Hazaribagh,Tandoor-e-Zaika
+200879,The Swad Story,Katwa,Indian Fest Rasoi
+200880,Curry Affair Rasoi,Angul,Biryani-e-Zaika
+200881,Zaika Bhawan,Seoni,Kadhai-e-Zaika
+200882,The Dilli Haat,Raichur,Tandoori Delight Zone
+200883,Masala Delight Chowk,Bareilly,North Indian
+200884,Rasoda Culture Rasoi,Jalna,Swaad Paratha House
+200885,Rasoda King,Baripada,Masala-e-Magic Platter
+200886,Curry Rasoda House,Ujjain,Masala Mix Rasoi
+200887,Swad Sutra,Basti,Non-Veg Delight
+200888,Roti Thali Corner,Lohardaga,South Indian
+200889,Bhojan Feast Rasoi,Kharagpur,Dilliwala Thali
+200890,Desi Chatpata Co.,Nayagarh,Masala Mix Rasoi
+200891,Maharaja Rasoi,Chennai,Indian Vegan Pot
+200892,Rasoi Rasoda,Bhilai,Malvani
+200893,Delhi Belly Diner,Surat,Kerala Banana Leaf
+200894,Indian Bhojan Express,Bareilly,Heritage India Zaika
+200895,Chatpata Table Rasoi,Varanasi,Baati Chokha Flavors
+200896,Zaika Feast Point,Guna,Lentil-Based
+200897,Indian Diner Express,Bharatpur,Upma & Sheera
+200898,Bhojan Cart Express,Nadiad,South Masala Delight
+200899,Flavour Junction,Bardhaman,Chettinad
+200900,Ghar Ka Thali Rasoi,Ranchi,Rasoi-e-Tandoor
+200901,Dilli Rasoda Junction,Bokaro,Tandoori BBQ Fusion
+200902,Bhojan Feast Rasoi,Chaibasa,Smoky Tandoor
+200903,Chatori Rasoi,Hubli,Dal Makhani Feast
+200904,Rasoi Rasoi,Morena,Butter Chicken Special
+200905,Rasoda Rasoi,Ujjain,Smoky Tandoor
+200906,Swad Adda Point,Vijayawada,Street Food
+200907,Zaika Adda,Gaya,Momo Rasoi
+200908,The Zaika Table,Bagalkot,Biryani Mix Fusion
+200909,South Thali Rasoi,Chikkamagaluru,Heritage Curry Kitchen
+200910,Roti Ghar,Bankura,Indian Dal Tadka
+200911,Rasoi Swaad,Bally,Sindhi
+200912,Veg Rasoi Express,Mathura,Festive India
+200913,Curry Rasoda House,Chikkaballapur,Ghar Wali Curry
+200914,Dilli Delight Rasoi,Neemuch,Tandoori Grill
+200915,Rasoi Table,Chatra,Chole Bhature
+200916,Maharaja Tandoor,Rampurhat,Rogan Josh Special
+200917,Veggie Curry,Kolkata,Indian Butter Pot
+200918,Punjab Grill,Damoh,Butter Chicken Special
+200919,Rasoi Royal,Haridwar,Momos and More
+200920,Roti Rasoi King,Chikkamagaluru,South Masala Delight
+200921,Swad Adda Rasoi,Jhumri Tilaiya,South Indian Fusion
+200922,Bombay Bistro,Krishnanagar,Chatori Dilli Rasoi
+200923,Urban Swad,Chitradurga,Indian BBQ
+200924,Butter Chicken Express,Itarsi,Modern Veg Rasoi
+200925,Curry Leaf Caf√©,Rudrapur,Farm Cuisine India
+200926,Rasoi Nukkad,Chandannagar,Indian Rasoi Junction
+200927,Biryani Bhawan,Bhubaneswar,The Royal Feast
+200928,The Curry Craft,Basirhat,Gujrati Kathiyawadi
+200929,Rasoi Heritage,Ambikapur,Royal Indian Bhog
+200930,Chatpata Chowk,Neemuch,Ayurvedic Cuisine
+200931,Rasoi Gully,Ambikapur,Tandoori Chicken BBQ
+200932,Rasoi Rasoi,Vellore,Royal Desi Delight
+200933,Maharaja Treats,Bhopal,Biryani Mix Fusion
+200934,Rice & Spice,Koraput,Vegan Indian
+200935,Indian Swad,Rampur,Tibetan-Influenced
+200936,Roti Chowk,Bhagalpur,Desi Masala Bistro
+200937,Maharani Rasoi,Raebareli,Biryani Bhawan
+200938,Veg Rasoi Express,Sirsa,Zaika-e-Dilli Thali
+200939,Desi Curry Cart,Chatra,Desi Masala Bistro
+200940,Desi Urban Bites,Chittoor,Indian Vegan Pot
+200941,Zaika Thali,Rudrapur,Indian Fry House
+200942,The Veggie Bite,Kendrapara,The Rasoi Flame
+200943,The Curry Bowl,Hospet,Spicy Food
+200944,Rasoi Rasoi,Nayagarh,Spice of Thali
+200945,Tandoori Nights,Ajmer,Biryani & Handi
+200946,The Chatori Rasoi,Phulbani,Sikkimese
+200947,Rasoi Zaika,Burhanpur,Idli Express
+200948,Rasoi Zaika,Satna,Dhokla & Farsan
+200949,Chatori Tiffin,Jalna,Tibetan-Influenced
+200950,Tiffin Tales,Barrackpore,Masala-e-Magic Platter
+200951,Tandoori Kitchen Express,Alipurduar,South Indian
+200952,Ghar Ka Zaika,Bally,Upma & Sheera
+200953,Dilli Rasoda Junction,Salem,Desi Vegan Combo
+200954,Hunger Adda,Bagalkot,Organic Indian
+200955,Hunger Adda,Mangalore,Tribal Spice Line
+200956,Rice & Spice,Raiganj,Chulha Special Curry
+200957,Zaika Chulha Rasoi,Midnapore,Indian Momo Street
+200958,Bhukkad Gully,Chhindwara,Swaad Paratha House
+200959,Curry Rasoi Mahal,Bhagalpur,Poha & Jalebi
+200960,Chulha Point,Haldia,Evening Snacks
+200961,Urban Swad,Srinagar,Bihari
+200962,Curry Culture,Gumla,Indian Curry Stories
+200963,Hyderabadi House,Kanpur,Indian Soul Curry
+200964,Chatkara Rasoi Cart,Jeypore,Khaati Peeti Zaika
+200965,Zaika Lounge,Latehar,Indian Firepot
+200966,Chatpata Chulha Cart,Rampurhat,Naga
+200967,Zaika Bhawan,Vellore,Indian Momo Street
+200968,Desi Rasoi Junction,Cooch Behar,Indo-Chinese
+200969,Biryani House India,Sirsa,South Rasoi Express
+200970,Rasoi World,Ambala,Indo-Tibetan Combo
+200971,Veggie Junction,Kota,Festival Feast
+200972,Rasoda Point India,Aligarh,Zaika-e-Fusion
+200973,Maharaja Rasoda,Bokaro,Spice of Thali
+200974,Chatkara Rasoi Cart,Faizabad,Zaika-e-Fusion
+200975,Chatpata Co.,Jamnagar,Ghar Ki Daal Chawal
+200976,Curry King Rasoi,Chitradurga,Dilli Feast Specials
+200977,Desi Tandoor Spot,Gumla,Tangy Tandoori
+200978,Desi Chatpata Co.,Sultanpur,Tandoori BBQ Fusion
+200979,Swad Rasoi,Loni,Farm Cuisine India
+200980,Swaad Rasoda,Jalpaiguri,Rajma Chawal
+200981,Tandoori Zaika Hut,Gwalior,North Indian
+200982,Rasoi Nation,Vidisha,Jain
+200983,Rasoi Gully,Damoh,Biryani-e-Zaika
+200984,Curry Corner Caf√©,Jalna,Royal Desi Delight
+200985,Zaika Feast,Koraput,Roti Curry Dal Express
+200986,Chatkara Express House,Katwa,Dilli Feast Specials
+200987,Indian Biryani Ghar,Davanagere,Grand Indian Grill
+200988,Chatpata Junction,Varanasi,Kadhai-e-Zaika
+200989,Dilli Delight Rasoi,Nanded,The Royal Feast
+200990,Rasoi Curry Table,Ratlam,Biryani-e-Zaika
+200991,Urban Feast Junction,Serampore,Indian Rasoi Junction
+200992,Masala Rasoi Ghar,Navi Mumbai,Lentil Lovers Special
+200993,Biryani Culture,Rewari,Indian Street Eats
+200994,The Chaat Street,Nellore,Fry Curry House
+200995,Swad Indian Kitchen,Kanpur,Rogan Josh Special
+200996,Roti Raga,Rajmahal,Curry Carnival
+200997,Desi Curry Cart,Sundargarh,Dilli Chole Bhature
+200998,Royal Curry Rasoi,Chikkamagaluru,Assamese
+200999,Curry Rasoda Point,Kumbakonam,India Feast House
+201000,Curry Chowk Cart,Jalgaon,Jain Fusion Food
+201001,Chatkara Express House,Alipurduar,Pure Vegetarian
+201002,Masala Delight Chowk,Bellary,Authentic Desi Flavors
+201003,Dilli Bhojan,Jodhpur,Pure Vegetarian
+201004,Indian Express Rasoi,Kendrapara,Dilli Feast Specials
+201005,Swadish Rasoi,Karwar,Royal Feast
+201006,Masala Delight,Bolangir,Curry Leaf Cuisine
+201007,Tandoor Curry Point,Madurai,Indian Vegan Pot
+201008,The Maharaja Table,Hassan,Pani Puri Special
+201009,Pure Veg Point,Jamshedpur,Classic Masala Curry
+201010,Desi Curry Cart,Bhopal,Masala Mix Rasoi
+201011,Tandoori Rasoi Spot,Rajmahal,Less Oil Cuisine
+201012,Ruchi Bhavan,Ballia,Momo Rasoi
+201013,Bhukkad Gully,Jamshedpur,Desi Masala Bistro
+201014,Rasoi Bhawan Chowk,Bhagalpur,Modern Indian
+201015,Rasoi Fusion Cart,Thane,Chatpata Rasoi Box
+201016,Rasoi Rasoda Palace,Koppal,Lentil-Based
+201017,Annapurna Bhojanalaya,Chandigarh,Veg Maharani Rasoi
+201018,Urban Tandoor,Jhansi,The Royal Feast
+201019,Butter Chicken Express,Maheshtala,Chaat Gully Taste
+201020,Chatori Rasoda,Visakhapatnam,Aloo Paratha Specials
+201021,Zaika Spot,Sagar,Gujarati
+201022,Indian Express Rasoi,Shimoga,Regional Rasoi Rasam
+201023,Swad Adda Rasoi,Malda,Swaad Paratha House
+201024,Rasoi Feast Hut,Kurukshetra,Dinner Thali
+201025,Curry Fiesta Rasoi,Bhusawal,Punjabi BBQ
+201026,Rasoi Ghar India,Nayagarh,Dilli Chole Bhature
+201027,Chatori Chowk,Sangli,Maharaja Thali
+201028,Rasoi Bhawan Chowk,Phulbani,Idli Heaven
+201029,Bombay Curry House,Arambagh,Kachori & Sabzi
+201030,Masala Mill,Tumakuru,Zaika Box
+201031,Desi Curry House,Bolangir,Combo of Rasoi
+201032,South Thali Rasoi,Mathura,Punjabi BBQ
+201033,Roti Rasoi,Rewari,Kerala
+201034,Swad Adda Point,Nellore,Chatori Chatpata Curry
+201035,Ghar Ki Rasoi,Bally,Desi Zaika Corner
+201036,Swad Sutra,Bhiwandi,Zaika-e-Fusion
+201037,Roti Rasoda,Jaunpur,Dum Pukht
+201038,Indian Swad,Bijapur,Pure Indian Platters
+201039,Curry Lounge Rasoi,Serampore,Bamboo Shoot Curry
+201040,Rasoda King,Varanasi,Indian Kadai Magic
+201041,Maharaja Meals,Kalyan,Kashmiri
+201042,The Chatpata Table,Ludhiana,Millet Fusion
+201043,Spicy Rasoi,Malegaon,Festival Feast
+201044,Swad Kitchen Delight,Shahjahanpur,Farm Cuisine India
+201045,Bhojan Mahal,Kochi,Biryani-e-Zaika
+201046,Rasoi Heritage,Serampore,Less Oil Cuisine
+201047,Spice Box,Ahmedabad,Veg Rasoi-e-Zaika
+201048,Indian Delight Kitchen,Koraput,Spice Trail India
+201049,Masala Bhavan,Palwal,Royal Feast
+201050,Rasoi Tales House,Kanpur,Masala Bistro
+201051,Thali Junction,Jabalpur,Naga
+201052,Rasoda Hut India,Ichalkaranji,Curry Mix Kitchen
+201053,The Rasoi Bhog,Bathinda,Dilli Chaat
+201054,Maharaja Thali Point,Kochi,Malvani
+201055,Rasoi Express King,Jammu,Classic Masala Curry
+201056,The Chaat Street,Hoshangabad,Tribal Fusion
+201057,Masala Roti Point,Ichalkaranji,Mughlai
+201058,Rasoi Rasoda,Midnapore,Heritage Curry Kitchen
+201059,Masala Chulha,Seoni,Heritage Curry Kitchen
+201060,Indian Rasoi King,Noida,Butter Masala House
+201061,Roti Tandoor,Sultanpur,Kerala Banana Leaf
+201062,Swad Curry Delight,Dhanbad,Naga
+201063,Veg Delight,Rajkot,Biryani House Special
+201064,Indian Zaika,Vidisha,Indo-Tibetan Combo
+201065,Chatpata Table Rasoi,Raiganj,Idli-Dosa Combos
+201066,Rasoi Rasoda Chowk,Khandwa,Chatpata Rasoi Box
+201067,Bhojan Bhavan,Guna,India Feast House
+201068,Rasoi Lounge,Durg,Kulcha & Curry
+201069,Urban Rasoda,Sambalpur,Festive India
+201070,Taste Sutra,Katni,Mughlai
+201071,Chatpata Lounge,Dumka,Tandoori Delight Zone
+201072,Dosa Diner,Meerut,Chatori Chatpata Curry
+201073,Veggie Zest,Deoria,Spice of Thali
+201074,Dilli Rasoi,Deoghar,Mutton Curry Rasoi
+201075,Thali Bhawan,Sagar,Oriya
+201076,Rasoi Ghar India,Rajkot,Spice Trail India
+201077,Bhojan Mahal,Bikaner,Jain Fusion Food
+201078,The Maharaja Table,Chandannagar,Lassi & Paratha Zone
+201079,Chatori Adda,Amritsar,Litti Chokha
+201080,Tandoori Kitchen,Jalna,Biryani & Handi
+201081,Chatori Treat Junction,Chikkaballapur,Jain
+201082,Zaika Thali,Ballia,Rajma Chawal
+201083,Dilli Swad,Sehore,Mughlai
+201084,The Urban Rasoda,Agra,Masala Bistro
+201085,Masala Bhavan,Bhopal,Indian Fest Rasoi
+201086,Royal Rasoi,Latehar,Biryani Special
+201087,Desi Chulha Rasoi,Jalna,Swaad Paratha House
+201088,The Chatpata Table,Phulbani,Masala Chulha Rasoi
+201089,Desi Chulha Rasoi,Jeypore,Tandoori Grill
+201090,Chatori Tiffin,Nainital,Indian Rasoi Daily
+201091,Curry Bhawan Express,Hassan,Biryani-e-Zaika
+201092,Flavour Junction,Agra,Litti Chokha
+201093,Swaad Adda,Patna,Indian Curry Stories
+201094,Indian Zaika King,Firozabad,Flavours of Ghar
+201095,Royal Rasoi,Puri,South Rasoi Express
+201096,Zaika Adda House,Kolkata,Indian Street Eats
+201097,Bombay Zaika,Satna,Sikkimese
+201098,Maharani Meals,Rohtak,Bihari
+201099,Tandoori Rasoi Spot,Howrah,Jain Fusion Food
+201100,Rasoi Rasoda Palace,Basirhat,Indian Soul Curry
+201101,Roti Bhawan,Hoshangabad,Kachori & Sabzi
+201102,Bhojan Point India,Panipat,Masala Mix Rasoi
+201103,Desi Tandoor Spot,Jammu,Heritage Curry Kitchen
+201104,Rasoi Lounge,Phulbani,Breakfast Special
+201105,Desi Curry Corner,Raipur,Idli Heaven
+201106,Bhojanam,Prayagraj,Masala Bistro
+201107,Swad Indian Kitchen,Latehar,Goan
+201108,Zaika Rasoda,Katni,Misal Pav
+201109,Curry Culture,Puri,Rajasthani Royal Rasoi
+201110,Masala Chatori,Balasore,Indian Taste Pot
+201111,Bhojan Feast Rasoi,Jamnagar,Haryana Rasoi Flavors
+201112,Rasoi Express King,Palwal,Desi Zaika Corner
+201113,Bhojan Point India,Bally,Indian Pepper Pot
+201114,Curry Leaf CafÈ,Bally,Pani Puri Special
+201115,Masala Mill,Koraput,Aloo Paratha Specials
+201116,Curry Magic,Itarsi,Smoky Tandoor
+201117,Dilli Bhojan,Krishnanagar,Heritage Recipes
+201118,Curry Delight India,Palwal,Naga
+201119,Zaika Grill,Jalor,Veggie Masala Ghar
+201120,Zaika CafÈ House,Serampore,Roti Curry Dal Express
+201121,Zaika CafÈ House,Rudrapur,Pure Vegetarian
+201122,Zaika Hub,Indore,Desi Masala Bistro
+201123,The Spice Affair,Gadag,Idli Express
+201124,Urban Curry Express,Loni,Kathiyawadi
+201125,Curry Rasoi Junction,Chandannagar,Paneer Lovers Corner
+201126,Swad Bhojan,Jalpaiguri,Curry Dosa Corner
+201127,Swadish Rasoi,Bathinda,Thepla & Chunda
+201128,Dilli Swad,Daltonganj,Chatpata Rasoi Box
+201129,Masala Junction,Sehore,Gravy Special
+201130,Indian Chatpata Rasoi,Sangli,Vegan Indian
+201131,Rasoda House,Rampurhat,Indian Butter Pot
+201132,Desi Flavors,Hoshangabad,Non-Veg Delight
+201133,Chatori Gali,Chitradurga,Lentil-Based
+201134,Curry Masaledar Junction,Nainital,Pure Indian Platters
+201135,Royal Rasoi,Karwar,Biryani-e-Zaika
+201136,Chatori Thali,Bhadrak,Butter Gravy Kitchen
+201137,The Desi Rasoi,Jaipur,Regional Delicacy
+201138,Biryani Rasoi,Coimbatore,Fish Curry Heaven
+201139,Tandoori Dilli,Rourkela,Indian Ghar Rasoi
+201140,Rasoi Gully,Barrackpore,Indian Festive Platter
+201141,Maharaja Rasoi,Chitradurga,Regional Delicacy
+201142,Urban Rasoda,Jhumri Tilaiya,Lunch Tiffin
+201143,Rasoi Swaad,Gwalior,Butter Gravy Kitchen
+201144,Ghar Ka Zaika,Malegaon,Curry Mix Kitchen
+201145,Rasoi Adda,Jhansi,Tribal Spice Line
+201146,Desi Dosa,Bengaluru,Kerala Curry Special
+201147,Desi Rasoi Junction,Yamunanagar,Authentic Desi Flavors
+201148,Spicy Rasoi,Gwalior,Veg Maharani Rasoi
+201149,Roti Delight Rasoda,Pakur,Manipuri
+201150,The Curry Lounge,Ballia,Ghar Ka Zaika
+201151,Chatpata Bhawan,Koppal,Curry Leaf Delight
+201152,Tandoori Tales,Korba,Ayurvedic Cuisine
+201153,Indian Roti Treats,Bagalkot,Rasoi-e-Ghar
+201154,Dosa Delight,Haveri,Thali Bhavan Specials
+201155,Curry Mandi,Basirhat,Spice of Thali
+201156,Tandoori Chatpata,Hassan,Desi Fusion Carnival
+201157,Chatpata Chowk,Bikaner,Tandoori
+201158,Zaika Rasoda,Bharatpur,Paneer Lovers Corner
+201159,Tandoor Express,Jamtara,Royal Kitchen Recipes
+201160,Urban Rasoda,Sangli,Biryani Mix Fusion
+201161,Paratha Plaza,Sagar,Andhra
+201162,Thali Bhawan,Katni,Hyderabadi
+201163,Rasoi Lounge,Cuttack,Heritage Recipes
+201164,Swad Bhujanalay,Aligarh,Curry Leaf Cuisine
+201165,Bombay Curry House,Chitradurga,Rajma Chawal
+201166,The Thali Rasoi,Rewa,Rasoi-e-Ghar
+201167,Desi Flavors,Rewa,Chaat Bazaar Bites
+201168,The Roti Rasoi Co.,Itarsi,Dum Pukht
+201169,The Swad House,Ambikapur,Biryani Special
+201170,Curry Lounge Rasoi,Bardhaman,Less Oil Cuisine
+201171,Curry Tandoori Ghar,Delhi,Coastal
+201172,Swad Co. Rasoi,Bikaner,Desi Sweets Combo
+201173,Swadish Rasoi,Surat,Jain Fusion Food
+201174,Roti Raga,Chaibasa,Tangy Bhukkad Box
+201175,Rice & Spice,Kalyani,Poha & Jalebi
+201176,Roti Table Express,Sidhi,Butter Chicken Special
+201177,Rasoi Culture Co.,Dhanbad,Udupi
+201178,Chatori Bites,Bellary,Tangy Bhukkad Box
+201179,The Swad Story,Meerut,Veggie Masala Ghar
+201180,Chatori Chowk,Hazaribagh,Flavours of Ghar
+201181,Bhojan Mahal,Hisar,Temple Food
+201182,Masala Bhavan,Phulbani,Poha & Jalebi
+201183,Masala Bhog,Ichalkaranji,Haryana Rasoi Flavors
+201184,Chatpata Rasoda Lounge,Udupi,Maharashtrian Meal
+201185,Chatpata Rasoi,Gumla,Fry & Curry House
+201186,Spice Box,Tamluk,Roti Saag Makki
+201187,South Thali Rasoi,Hospet,Curry Dosa Corner
+201188,Thali Tales,Narsinghpur,The Curry Maharaja
+201189,South Thali Rasoi,Shahjahanpur,Goan Prawn Curry
+201190,Urban Swad,Meerut,Millet Fusion
+201191,Masala CafÈ Rasoi,Navi Mumbai,Rasoi Express Meals
+201192,Rasoi Culture Co.,Jhansi,Indian Zaika Rasoi
+201193,The Urban Feast,Tiruchirappalli,Spicy Food
+201194,Chatpata Curry,Damoh,Andhra Meal Thali
+201195,Chatkara Table,Dehradun,Thepla & Chunda
+201196,Pure Veg Point,Kanpur,Manipuri
+201197,Chatkara Rasoi Cart,Bijapur,Indian Firepot
+201198,Rasoda Rasoi,Angul,Indian Flavors Reloaded
+201199,Zaika Gully Kitchen,Chennai,Dilli Chaat
+201200,Bhojan Junction,Bhusawal,Naan & More
+201201,Zaika Thali,Karimnagar,Desi Soup & Curry
+201202,Urban Curry Express,Tumakuru,Hyderabadi
+201203,Curry Rasoi Mahal,Nizamabad,Regional Non-Veg
+201204,Desi Urban Bites,Dhenkanal,Assamese
+201205,Bombay Zaika,Prayagraj,Flavours of Ghar
+201206,Masala Rasoda,Hoshangabad,Indian Flavors Reloaded
+201207,The Curry Craft,Seoni,Indian Combo Kitchen
+201208,Chatpata Adda,Jagdalpur,Curry Mix Kitchen
+201209,Rasoi Culture,Faizabad,Traditional South
+201210,Chulha Ghar,Bengaluru,Lentil Lovers Special
+201211,Masala Delight Chowk,Hassan,Temple Food
+201212,Taste of India,Hyderabad,Indian Taste Pot
+201213,Kathi Roll Nation,Deoghar,Curry Leaf Cuisine
+201214,Royal Chatori,Midnapore,Spice Trail India
+201215,Bombay Zaika,Ujjain,Festive India
+201216,Urban Zaika,Jhumri Tilaiya,Masala Chulha Rasoi
+201217,Indian Swad,Kharagpur,Gujrati Kathiyawadi
+201218,Desi Chatpata Co.,Kolhapur,Sizzler Platter
+201219,Indian Masala CafÈ,Pune,Assamese
+201220,Chatpata Co.,Loni,Dosa Plaza
+201221,Chatori Tiffin,Bathinda,Fusion Tandoor
+201222,The Curry Chulha,Chikkaballapur,Spice Trail India
+201223,Bhojan Rasoda,Raipur,Rajasthani
+201224,Zaika Hub,Tirunelveli,Curry Special
+201225,Dosa Diner,Moradabad,Royal Desi Delight
+201226,Roti Raga,Rewa,Spicy Tiffin Treat
+201227,Zaika Junction,Bardhaman,Kathi Roll Express
+201228,Curry Leaf CafÈ,Bareilly,Rice Bowl India
+201229,Swaad Adda,Agra,Tiffin Treats India
+201230,Swad Paratha House,Shahjahanpur,Idli Express
+201231,Swad Paratha House,Deoria,Haryana Rasoi Flavors
+201232,Zaika Lounge,Haridwar,Coastal
+201233,Annapurna Bhojanalaya,Chhindwara,Malvani
+201234,Curry Lounge Rasoi,Rourkela,Grilled Masala Zaika
+201235,Maharani Feast Point,Nizamabad,Ghee-Rich Meals
+201236,Curry Rasoi,Satna,Tribal Fusion
+201237,Rasoda Rasoi,Koppal,Goan
+201238,Tandoori Bhavan,Chitradurga,Misal Pav
+201239,Curry Rasoi Junction,Krishnanagar,Indian Taste Pot
+201240,Zaika Grill,Seoni,Butter Gravy Kitchen
+201241,Spicy Platter,Baharampur,Punjabi
+201242,Tandoori Nights,Budaun,Punjabi BBQ
+201243,The Curry Craft,Mandsaur,Veg Thali Delight
+201244,Dilli Kitchen Rasoi,Kolar,Farm-to-Table Indian
+201245,Pure Veg Point,Ludhiana,Dilli Feast Specials
+201246,The Urban Rasoda,Vidisha,Heritage India Zaika
+201247,Desi Delights,Khandwa,Non-Veg Delight
+201248,Swad Adda Rasoi,Basti,Indian Currywala
+201249,Zaika Feast,Guwahati,Naga
+201250,Rasoi Nation,Budaun,Veg Ghar Thali
+201251,Bombay Zaika,Aligarh,Fusion Dilli Zaika
+201252,Nukkad Adda,Rewari,Pakhala Bhata
+201253,Maharani Rasoi,Guntur,India Feast House
+201254,Ruchi Bhavan,Sagar,Festival Feast
+201255,The Urban Feast,Morena,Kulcha & Curry
+201256,Rasoi World,Sehore,Spiced Buttermilk Trail
+201257,Indian Rasoi Tales,Ulhasnagar,Curry Leaf Delight
+201258,Kathi Roll Nation,Ichalkaranji,Heritage India Zaika
+201259,Zaika Rasoda,Bally,Puran Poli Meals
+201260,Desi Roti Adda,Guntur,Indian Street Eats
+201261,Zaika Stories,Morena,Curry Carnival
+201262,Paratha Plaza,Phulbani,Tandoori Grill
+201263,Biryani Junction,Ambikapur,The Curry Maharaja
+201264,Curry Lounge Rasoi,Jalpaiguri,Zaika-e-Dilli Thali
+201265,Biryani Blues,Rajmahal,Maharashtrian Meal
+201266,Indian Flavors Cart,Serampore,Royal Desi Delight
+201267,Rasoi Zaika,Gorakhpur,Hyderabadi
+201268,Veg Rasoi Express,Pune,Udupi
+201269,Rasoi Royal,Ulhasnagar,Millet Fusion
+201270,Rasoda Hut India,Bhiwandi,Tribal
+201271,Maharaja Meals,Yadgir,Kebab Special
+201272,Veggie Zest,Kolar,Curry Leaf Delight
+201273,The Chatpata Rasoi,Jamtara,Bamboo Shoot Curry
+201274,Dilli Bhojan,Jhumri Tilaiya,Kachori & Sabzi
+201275,Zaika Bhawan,Moradabad,Litti Chokha
+201276,Rasoi Heritage,Dhule,Curry Special
+201277,Roti Curry Rasoi,Roorkee,Idli-Dosa Combos
+201278,Rice & Spice,Jhansi,Tandoori Delight Zone
+201279,Tandoori Kitchen Express,Seoni,India Feast House
+201280,Desi Flavors,Navi Mumbai,BBQ Indian
+201281,Veggie Zest,Chitradurga,Regional Non-Veg
+201282,Indian Delight Kitchen,Korba,Litti Chokha
+201283,Hyderabadi House,Aurangabad,Coastal
+201284,Masaledaar Diner,Etawah,Masala Mix Rasoi
+201285,Rasoda House,Bijapur,Idli Heaven
+201286,Biryani Bhog,Durgapur,Indian Flavors Reloaded
+201287,Rasoi Feast Hut,Krishnanagar,Biryani & Kebab
+201288,Indian Thali Co.,Hoshangabad,Indian Momo Street
+201289,Rasoi Rasoda Palace,Nanded,Dilli Chaat
+201290,Spicy Platter,Baranagar,Gharwali Rasoi
+201291,Zaika Adda,Krishnanagar,Pakhala Bhata
+201292,Paratha Plaza,Sirsa,Masala Lovers Hub
+201293,Tandoor Treats,Katwa,Biryani Mix Fusion
+201294,Roti Delight Rasoda,Etawah,Chatori Dilli Rasoi
+201295,Dilli Delight Corner,Gwalior,Authentic Desi Flavors
+201296,Veg Rasoi Express,Ghaziabad,Tandoori Grill
+201297,Butter Chicken Express,Yamunanagar,Dhokla & Farsan
+201298,The Zaika Aangan,Budaun,Zaika-e-Dilli Thali
+201299,Curry Mandi,Faridabad,Indian Vegan Pot
+201300,The Chatori Rasoi,Hisar,Homestyle
+201301,Rasoi CafÈ Spot,Srinagar,Festive India
+201302,Swad Dhamaka,Faridabad,Temple Food
+201303,Chatkara Bhawan,Arambagh,Sizzling Indian
+201304,Paratha Plaza,Rampur,Gharwali Rasoi
+201305,Curry Rasoda,Darjeeling,Tribal Spice Line
+201306,Urban Rasoda,Warangal,Coastal
+201307,Curry Junction,Haldia,Lentil Lovers Special
+201308,South Feast,Haveri,Tribal Spice Line
+201309,Swadish Rasoi,Jaunpur,Indian Combo Kitchen
+201310,The Urban Feast,Nainital,Indian Zaika Rasoi
+201311,Tandoori Kitchen,Kolar,India Tandoor Rasoi
+201312,Desi Delights,Rewari,Sambar & Rasam
+201313,Rasoi Express King,Bhagalpur,Momos and More
+201314,Dilli Chatpata Rasoi,Latehar,Mixed Indian Rasoi
+201315,Roti Thali Corner,Bhagalpur,Regional Non-Veg
+201316,Indian Curry Rasoda,Bagalkot,Sizzler Platter
+201317,Masala Junction Rasoi,Nayagarh,Momos and More
+201318,Vyanjan Villa,Jamshedpur,Ghar Ka Zaika
+201319,Chatkara Mahal,Jammu,Kerala
+201320,Khaati Peeti Rasoi,Bidar,Swaad Paratha House
+201321,Rasoda House,Balasore,Handi Specials
+201322,Tandoor Express,Jaunpur,Idli Heaven
+201323,The Chatpata Rasoi,Rohtak,Curry Special
+201324,Indian Flavors Cart,Akola,Traditional South
+201325,Rasoi Rasoda Chowk,Ratlam,Tribal
+201326,Bhojan Mahal,Katwa,Classic Masala Curry
+201327,Biryani House India,Sultanpur,Modern Indian
+201328,South Thali Rasoi,Bhubaneswar,Biryani House Special
+201329,Roti Rasoi Junction,Mau,Biryani Mix Fusion
+201330,The Chatpata Table,Jhumri Tilaiya,Butter Masala House
+201331,Swad Kitchen Delight,Vijayawada,Pav Bhaji Special
+201332,Rasoi Chowk,Tiruchirappalli,Thali Bhavan Specials
+201333,Desi Roti Adda,Bhiwani,Dinner Thali
+201334,Tiffin Tales,Kendrapara,Chatori Dilli Rasoi
+201335,Kathi Roll Nation,Guntur,Dum Pukht
+201336,Masala Roti Point,Jammu,Grilled Masala Zaika
+201337,Butter Chicken Express,Bhusawal,Sindhi
+201338,The Dilli Rasoi Cart,Rewari,Indian Comfort Food
+201339,Flavours of Punjab,Maheshtala,Manipuri
+201340,Rasoi Gully Cart,Cooch Behar,Tandoori
+201341,Indian Zaika King,Rajmahal,Butter Chicken Special
+201342,Nukkad Adda,Raebareli,Spice Trail India
+201343,Chatpata Chulha Cart,Bhopal,North Curry Flame
+201344,Zaika Bhawan,Davanagere,Less Oil Cuisine
+201345,Bhojan Feast,Bijapur,Coconut-Based Dishes
+201346,Bhojan Cart Express,Kota,Veg Rasoi-e-Zaika
+201347,The Tandoor Tales,Jagdalpur,Thepla & Chunda
+201348,Masala Mill,Seoni,Veg Ghar Thali
+201349,Swad Sagar,Bagalkot,Sambar & Rasam
+201350,Swad Curry Delight,Belgaum,Indian Festive Platter
+201351,Ghar Ka Khana,Jagdalpur,Roti Saag Makki
+201352,Swad Rasoi,Yamunanagar,Chettinad
+201353,Roti Table Express,Ranchi,Indo-Tibetan Combo
+201354,Dilli Curry House,Angul,Biryani-e-Zaika
+201355,Urban Swad,Kochi,Heritage India Zaika
+201356,Zaika Lounge,Sagar,Rice-Based
+201357,Chatori Chowk,Balasore,Rajasthani
+201358,Zaika Bhawan,Dehradun,Indian Rasoi Junction
+201359,Zaika Chulha Rasoi,Midnapore,Biryani Special
+201360,Bhojan Feast Rasoi,Roorkee,Indian Gravy Fusion
+201361,Biryani Culture,Ahmedabad,Indian Zaika Rasoi
+201362,The Chatori Rasoi,Faizabad,Sikkimese
+201363,Roti Tandoor,Korba,Manipuri
+201364,Swad Adda Point,Korba,Pure Vegetarian
+201365,Roti Rasoi,Jammu,Tribal
+201366,The Zaika Rasoi,Vellore,Urban Zaika Line
+201367,The Tandoor Tales,Hubli,Biryani Bhawan
+201368,Roti Rasoda,Tiruchirappalli,Royal Desi Delight
+201369,Rasoi Tandoor,Karnal,Indian Festive Platter
+201370,Desi Urban Bites,Warangal,Indian Street Eats
+201371,Indian Diner Cart,Nizamabad,Khaati Peeti Zaika
+201372,Rasoi Rasoda,Nizamabad,Rasoi-e-Ghar
+201373,Veggie Rasoi,Bhiwani,Zaika-e-Dilli Thali
+201374,Ghar Ka Thali Rasoi,Bijapur,Bengali
+201375,Maharani Meals,Jaunpur,Mixed Indian Rasoi
+201376,The Chatpata Rasoi,Sundargarh,Lentil-Based
+201377,Indian Chatpata Rasoi,Udupi,Pure Vegetarian
+201378,Punjab Grill,Gorakhpur,Urban Zaika Line
+201379,Indian Tandoor,Jabalpur,Kashmiri
+201380,Masala Delight Chowk,Nayagarh,Chaat Bazaar Bites
+201381,Veggie Curry,Basirhat,Ghar Ka Zaika
+201382,Roti Zaika,Solapur,Zaika-e-Dilli Thali
+201383,Roti Rasoda,Rewari,Veg Thali Delight
+201384,Indian Masala CafÈ,Raiganj,Breakfast Special
+201385,Roti Table Express,Asansol,Indian Soul Curry
+201386,Rasoi Culture,Dumka,Spice of Thali
+201387,Bhukkad Gully,Malegaon,Urban Indian Curry
+201388,Rasoi Rasoda Chowk,Amritsar,Roti-Sabzi
+201389,Zaika Grill House,Faridabad,Gharwali Rasoi
+201390,Swad Spot,Jabalpur,Veg Maharani Rasoi
+201391,Bhojanalay Express,Solapur,Mutton Curry Rasoi
+201392,Maharani Meals,Khandwa,Coastal
+201393,The Chaat Street,Hubli,Modern Veg Rasoi
+201394,Rasoda Hut India,Karimnagar,Fusion Dilli Zaika
+201395,Rasoi Lounge,Bhubaneswar,Heritage Thali
+201396,Swad Dhamaka,Neemuch,Tandoori Thali Ghar
+201397,Swad Zaika Rasoi,Ulhasnagar,Jain
+201398,Bhojan Bhavan,Bellary,Curry Leaf Cuisine
+201399,Rasoi Curry Table,Dhule,Smoky Tandoor
+201400,Indian Roti Treats,Karwar,Sizzler Platter
+201401,Rasoi Culture Co.,Chitradurga,Tandoori Temptations
+201402,The Samosa Co.,Rajkot,Kathiyawadi
+201403,Chatpata Feast Corner,Balasore,Tandoor-e-Zaika
+201404,Curry Wagon,Vadodara,Curry Special
+201405,Rasoi Fusion Cart,Hisar,Kerala
+201406,Chatpata Chowk,Giridih,Spiced Buttermilk Trail
+201407,Roti Rasoi Junction,Sambalpur,Fusion Indian
+201408,Chatori Treat Junction,Darjeeling,Dal Makhani Feast
+201409,The Thali Rasoi,Latehar,Hyderabadi
+201410,Desi Chatpata Co.,Ujjain,Bamboo Shoot Curry
+201411,Hunger Adda,Mangalore,Indian Butter Pot
+201412,The Chulha Story,Shivpuri,Indian Currywala
+201413,Curry Cart Rasoi,Jamshedpur,Seafood Special
+201414,Urban Tandoor,Kolkata,Bengal Fish Kitchen
+201415,Masala Delight,Nagpur,Grand Indian Grill
+201416,Bhojan Junction,Bhagalpur,Punjabi BBQ
+201417,Roti Table Express,Jalpaiguri,Momo Rasoi
+201418,Curry Rasoi Junction,Koraput,Desi Soup & Curry
+201419,Roti Curry Rasoi,Sultanpur,Butter Gravy Kitchen
+201420,Curry Masaledar Junction,Shahdol,Curry Mix Kitchen
+201421,Indian Chatpata Rasoi,Daltonganj,Biryani Mix Fusion
+201422,Bhojan Delight Rasoi,Bhiwandi,Festival Feast
+201423,Maharaja Rasoda,Ludhiana,Goan Prawn Curry
+201424,Curry Affair Rasoi,Rajkot,Satvik Food
+201425,Pav Bhaji Point,Ludhiana,Jain
+201426,Rasoi Swaad,Arambagh,Less Oil Cuisine
+201427,Tandoori Zaika Hut,Ludhiana,Kathiyawadi
+201428,Spicy Treat Rasoi,Daltonganj,Thepla & Chunda
+201429,Ghar Ki Thali,Damoh,Indian Kitchen Carnival
+201430,Rasoi Tales House,Malda,Biryani-e-Zaika
+201431,Chatkara Curry Express,Morena,Indian Maharaja Dishes
+201432,Zaika India Co.,Moradabad,Upma & Sheera
+201433,Swad Rasoi,Basti,Breakfast Special
+201434,Curry Fiesta Rasoi,Jamnagar,Sikkimese
+201435,Urban Swad,Koppal,Goan
+201436,Rasoi Tiffin,Koppal,Jain Fusion Food
+201437,Swaad Co.,Thane,Ghar Wali Curry
+201438,The Curry Craft,Bhiwani,Tribal
+201439,Maharani Chatori,Phulbani,Indian Butter Pot
+201440,Rasoi Royal,Chhindwara,Vegan Indian
+201441,Curry Magic,Bhavnagar,Haryana Rasoi Flavors
+201442,Spicy Platter,Jaipur,Heritage Curry Kitchen
+201443,Curry Wagon,Rourkela,Combo of Rasoi
+201444,Khaati Peeti Rasoi,Gumla,Coastal
+201445,Curry Corner CafÈ,Kolar,Royal Desi Delight
+201446,Chatori Rasoi,Durg,Chatori Dilli Rasoi
+201447,Urban Tandoor,Hoshangabad,Rasoi Express Meals
+201448,Zaika Chulha Rasoi,Arambagh,Spice of Thali
+201449,Curry Rasoi Mahal,Barasat,Biryani Special
+201450,Chilli & Chaat,Jabalpur,Breakfast Special
+201451,Tandoori Dilli,Chikkaballapur,Kerala Curry Special
+201452,Curry Treat House,Mathura,Zaika-e-Fusion
+201453,Spice Box,Rajkot,Heritage Recipes
+201454,Curry Rasoi Junction,Ballia,Desi Vegan Combo
+201455,Indian Tandoor,Gaya,Fusion Dilli Zaika
+201456,Curry Treat House,Nashik,Temple Food
+201457,Annapurna Bhojanalaya,Bhagalpur,Royal Indian Bhog
+201458,Chatkara Diner,Palwal,Non-Veg Delight
+201459,Desi Tandoor Spot,Kolar,Tribal Fusion
+201460,Curry Bhawan Express,Moradabad,Royal Desi Delight
+201461,Swad Express,Surat,Rasoi Express Meals
+201462,Indian Vyanjan,Vasai,Indian Gravy Fusion
+201463,Delhi Belly Diner,Bhopal,Farm-to-Table Indian
+201464,Maharani Chatori,Sangli,Temple Food
+201465,Royal Chatori,Udaipur,Gravy Special
+201466,Desi Tandoor Spot,Bhubaneswar,Maharashtrian
+201467,Masala Chatori,Jhumri Tilaiya,Handi Specials
+201468,Swad Express Diner,Jalgaon,Royal Indian Bhog
+201469,Rasoi Feast Hut,Chhindwara,Khichdi Varieties
+201470,Roti Table Express,Solapur,Dum Pukht
+201471,Bhojan Delight Rasoi,Bharatpur,Bihari
+201472,Tandoori Zaika Hut,Koraput,India Feast House
+201473,Rasoda Rasoi,Sambalpur,Lentil Lovers Special
+201474,Desi Curry Cart,Vadodara,Chatpata Rasoi Box
+201475,Swad Zaika Rasoi,Udupi,Street Food
+201476,Swad Kitchen Delight,Hassan,Ghee-Rich Meals
+201477,Flavours of Chennai,Deoghar,Masala-e-Magic Platter
+201478,Curry Leaf CafÈ,Ulhasnagar,Indian Taste Pot
+201479,Swaad Bhawan,Cooch Behar,Swaad Bhawan
+201480,Tandoori Rasoi CafÈ,Jodhpur,Bamboo Shoot Curry
+201481,Rasoi Tales House,Ambala,Kadhai-e-Zaika
+201482,Zaika Rasoi Point,Neemuch,Khichdi Varieties
+201483,Masaledaar Rasoi,Mau,Thali Special
+201484,Pure Veg Point,Shivpuri,Indo-Tibetan Combo
+201485,Dilli Chatkara Point,Agra,Oriya
+201486,Thali Junction,Sundargarh,Bamboo Shoot Curry
+201487,Dosa Delight,Dehradun,Ayurvedic Cuisine
+201488,Pind Punjab,Solapur,Indian Combo Kitchen
+201489,Roti Zaika,Noida,Indian Pepper Pot
+201490,The Roti Rasoi Co.,Bokaro,Evening Snacks
+201491,Bhukkad Gully,Gadag,Maharaja Thali
+201492,Biryani Bhawan,Kalyan,Flavours of Ghar
+201493,Indian Roti Treats,Satna,Zaika-e-Dilli Thali
+201494,Tandoori Rasoi CafÈ,Gandhidham,Maharashtrian
+201495,Roti Rasoda,Ghaziabad,Dosa Plaza
+201496,Vyanjan Villa,Deoria,Ayurvedic Cuisine
+201497,Curry Aangan,Bengaluru,Feast of Thalis
+201498,Swad Bhujanalay,Madurai,Maharaja Thali
+201499,Zaika Rasoda,Bhilai,Breakfast Special
+201500,Spicy Rasoi,Karimnagar,The Rasoi Flame
+201501,Ghar Se Rasoi,Mandya,Kerala Curry Special
+201502,Royal Chatori,Durg,Naga
+201503,Urban Bhojanalay,Koraput,Indian Rasam Thali
+201504,Zaika Treats,Baharampur,Masala Chulha Rasoi
+201505,Rasoi Fusion Cart,Rajmahal,Indian Fest Rasoi
+201506,Desi Flavors,Moradabad,Haryana Rasoi Flavors
+201507,Swad Adda Point,Balasore,Heritage Curry Kitchen
+201508,Masala Mill,Bankura,Masala Mix Rasoi
+201509,Rasoda Treats Rasoi,Faridabad,Heritage India Zaika
+201510,Swad Sagar,Haridwar,South Tandoor Curry
+201511,Indian Roti Cart,Puri,Indian Currywala
+201512,Veggie Rasoi,Siliguri,Curry Mix Kitchen
+201513,The Chatpata Rasoi,Kalyani,Spice Trail India
+201514,Chatpata Lounge,Hassan,Spiced Buttermilk Trail
+201515,Royal Rasoi,Kalyan,Indian Rasam Thali
+201516,The Curry Chulha,Shahdol,Fry Curry House
+201517,Zaika Adda House,Loni,Royal Desi Delight
+201518,Masala Rasoda,Srinagar,Desi Zaika Corner
+201519,Roti Chowk,Sirsa,Veg Thali Delight
+201520,Chatkara King Rasoi,Saharanpur,Indian Soul Curry
+201521,Roti Curry Rasoi,Phulbani,Curry Leaf Rasoda
+201522,Zaika Delight Rasoi,Jaipur,Hyderabadi
+201523,Dilli Chatkara Point,Bargarh,Satvik Food
+201524,Rasoda Bhawan Cart,Palwal,Masala Chulha Rasoi
+201525,Ghar Ki Thali,Koraput,Roti Curry Dal Express
+201526,Kathi Roll Nation,Baripada,Urban Indian Curry
+201527,Rice & Spice,Raiganj,Biryani Bhawan
+201528,Desi Flavors,Maheshtala,Indian Curry Stories
+201529,Zaika Rasoda,Firozabad,Combo of Rasoi
+201530,The Curry Bowl,Baharampur,Naan & More
+201531,Rasoi Adda,Lohardaga,Gujrati Kathiyawadi
+201532,Indian Roti Cart,Haveri,Veg Rasoi-e-Zaika
+201533,The Paratha House,Cuttack,Tandoor-e-Zaika
+201534,Vyanjan Villa,Bagalkot,Pure Indian Platters
+201535,Zaika Stories,Kochi,Andhra Meal Thali
+201536,Chatpata Feast Corner,Bhadrak,Temple Food
+201537,Swad Bhujanalay,Harda,Curry Mix Kitchen
+201538,Thali Junction,Mau,South Tandoor Curry
+201539,The Rasoi Bhog Junction,Ambikapur,Spice Trail India
+201540,Swad Sutra,Ludhiana,Indian Soul Curry
+201541,Desi Chatpata Co.,Giridih,Sindhi
+201542,Indian Curry Rasoda,Vijayawada,Ghar Wali Curry
+201543,Masala Kitchen,Dhule,Kerala Curry Special
+201544,Ruchi Bhavan,Gandhidham,Swaad Bhawan
+201545,Urban Feast Junction,Pune,Thali Bhavan Specials
+201546,Zaika Cart,Sultanpur,Indian Kitchen Carnival
+201547,Maharaja Thali Point,Bokaro,Royal Desi Delight
+201548,Maharaja Feast House,Salem,Kashmiri
+201549,Bombay Curry House,Tiruchirappalli,Masala Chulha Rasoi
+201550,Indian Diner Express,Nainital,Evening Snacks
+201551,Masala Junction Rasoi,Coimbatore,Bamboo Shoot Curry
+201552,Bombay Zaika,Nadiad,Dilli Chole Bhature
+201553,Rasoi Curry Table,Hassan,Royal Indian Bhog
+201554,Zaika Junction,Jalgaon,Heritage India Zaika
+201555,Taste of India,Kolkata,Heritage Recipes
+201556,Curry Kingdom,Daltonganj,Indian Kadai Magic
+201557,Rasoi CafÈ Spot,Haldwani,Vegan Indian
+201558,Tandoori Rasoi Spot,Sundargarh,Curry Carnival
+201559,Dilli Delight Corner,Moradabad,Pakhala Bhata
+201560,Zaika Stories,Damoh,Maharaja Thali
+201561,Rasoi Tales House,Sundargarh,Heritage Curry Kitchen
+201562,Swadish Bites,Lohardaga,Tribal Fusion
+201563,Zaika Chatpata Adda,Sangli,Indian Firepot
+201564,Masala Rasoda,Saharanpur,Tribal Spice Line
+201565,Indian Biryani Ghar,Kurukshetra,Idli-Dosa Combos
+201566,Rice & Spice,Baharampur,Kerala Curry Special
+201567,Maharani Chatori,Bally,Coconut-Based Dishes
+201568,Hyderabadi House,Jalor,Heritage Curry Kitchen
+201569,The Curry Chulha,Katni,Regional Non-Veg
+201570,Chatkara Mahal,Jamshedpur,Khaati Peeti Zaika
+201571,The Thali House,Davanagere,Smoky Tandoor
+201572,Chatpata Lounge,Bankura,Tribal Spice Line
+201573,Chatpata Junction,Daltonganj,Spiced Buttermilk Trail
+201574,Zaika Stories,Kota,Indian Festive Platter
+201575,Rasoi World,Navi Mumbai,Spicy Food
+201576,Indian Rasoi Tales,Seoni,Desi Fast Food
+201577,Curry Wagon,Jamshedpur,Lunch Tiffin
+201578,Ghar Ki Rasoi,Chikkamagaluru,Urban Zaika Line
+201579,Indian Taste Cart,Nayagarh,Vegan Indian
+201580,Indian Curry Rasoda,Sundargarh,Chole Bhature
+201581,Curry Treat House,Angul,Tribal Fusion
+201582,The Paratha House,Palwal,Tribal
+201583,Masala Rasoi Ghar,Yamunanagar,Chettinad
+201584,Chatpata Adda,Palwal,Curry Dosa Corner
+201585,Urban Rasoda,Dumka,Indo-Tibetan Combo
+201586,Rasoi Express King,Faridabad,Millet Fusion
+201587,Urban Tandoor,Hisar,Sindhi
+201588,The Curry Co.,Udaipur,Regional Non-Veg
+201589,The Spice Affair,Jalandhar,North Indian
+201590,Chatori Thali,Gadag,Dilli Chole Bhature
+201591,Curry Rasoi Mahal,Bankura,Zaika-e-Fusion
+201592,Bhojan Heritage Rasoi,Raebareli,Butter Gravy Kitchen
+201593,The Paratha House,Belgaum,Chole Bhature
+201594,Chatpata Rasoda Lounge,Bathinda,Coconut-Based Dishes
+201595,Ghar Ka Khana,Tumakuru,Mutton Curry Rasoi
+201596,Swad Adda Point,Vasai,Kebab Special
+201597,Desi Rasoi,Coimbatore,Gujrati Kathiyawadi
+201598,The Paratha House,Cuttack,Indian Rasoi Daily
+201599,The Paratha House,Raiganj,Fish Curry Heaven
+201600,Ghar Ki Thali,Budaun,Millet-Based
+201601,Chatori Rasoda Express,Rampur,Goan
+201602,Indian Zaika King,Kolar,Indian Rasoi Junction
+201603,Curry Rasoda,Lucknow,Pure Indian Platters
+201604,Bhojan Feast,Bhadrak,Fry Curry House
+201605,Desi Tandoor Spot,Ambikapur,Sambar & Rasam
+201606,Swad Zaika Rasoi,Deoria,Dum Pukht
+201607,Flavours of Chennai,Noida,Flavours of Ghar
+201608,Chatpata Adda,Davanagere,Masala Lovers Hub
+201609,Swaad Rasoda,Serampore,Sikkimese
+201610,Chatori Adda,Gorakhpur,Biryani Special
+201611,Rasoda King,Kurukshetra,Butter Masala House
+201612,Urban Swad Point,Rudrapur,Pure Vegetarian
+201613,Bhojan Bhavan,Jaipur,Kebab Special
+201614,Chatpata Rasoda Lounge,Betul,Curry Leaf Cuisine
+201615,Swad Bhojan,Sagar,Chatori Chatpata Curry
+201616,Desi Bistro,Mumbai,Indian Momo Street
+201617,Desi Chatpata Co.,Bareilly,Biryani-e-Zaika
+201618,The Chulha Story,Madurai,Baati Chokha Flavors
+201619,Maharaja Rasoda,Bargarh,Assamese
+201620,Rasoi Table,Roorkee,Idli-Dosa Combos
+201621,Swad Express Diner,Vadodara,Goan
+201622,Curry Delight,Ulhasnagar,Indian Zaika Rasoi
+201623,Biryani Culture,Mandya,Indian Dal Tadka
+201624,Dilli Kitchen Rasoi,Ajmer,Roti Curry Dal Express
+201625,Chulha Ghar,Shahjahanpur,Homestyle
+201626,Roti Rasoi,Baranagar,Ghee-Rich Meals
+201627,Veggie Express,Patna,Regional Delicacy
+201628,Rasoi Rasoda Palace,Karimnagar,Fusion Dilli Zaika
+201629,Urban Rasoda,Midnapore,South Rasoi Express
+201630,Desi Rasoi,Udaipur,Tandoori
+201631,Maharaja Treats,Pune,Malvani
+201632,Urban Swad Point,Nayagarh,Indian Pepper Pot
+201633,Chatkara Table,Gandhidham,Royal Feast
+201634,Swad Indian Kitchen,Midnapore,Satvik Food
+201635,Masala Rasoi Ghar,Gadag,Swaad Paratha House
+201636,Chulha Point,Bargarh,Evening Snacks
+201637,Indian Diner Express,Bhagalpur,Biryani & Handi
+201638,The Swad Story,Jeypore,Baati Chokha Flavors
+201639,Bhojan Delight Rasoi,Koppal,Roti Curry Dal Express
+201640,Chatkara Mahal,Kharagpur,Ghar Ki Daal Chawal
+201641,Spicy Rasoi,Bagalkot,Manipuri
+201642,Swaad Rasoda,Deoria,Veggie Masala Ghar
+201643,Rasoi World,Rampurhat,Indian Festive Platter
+201644,Zaika Adda House,Raichur,Desi Fast Food
+201645,Desi Urban Bites,Vijayawada,Royal Kitchen Recipes
+201646,Biryani Spot,Shahdol,Idli-Dosa Combos
+201647,Rasoi Heritage,Daltonganj,Festive Masala Curry
+201648,Rasoi Urban Kitchen,Raipur,Sikkimese
+201649,Ruchi Bhavan,Itarsi,Indian Rasoi Junction
+201650,Zaika Adda,Chandannagar,Swaad Paratha House
+201651,The Rasoi Cart,Pakur,Desi Sweets Combo
+201652,Namma Ooru Dosa,Arambagh,Pav Bhaji Special
+201653,Indian Zaika King,Sitapur,South Indian
+201654,Desi Bistro,Bagalkot,Indian Pepper Pot
+201655,Chatkara Treats,Jeypore,Spiced Buttermilk Trail
+201656,Chatpata Rasoi,Bhiwani,Fusion Tandoor
+201657,Chatori Zaika Rasoi,Kurukshetra,Lunch Tiffin
+201658,The Masala Spot,Bally,Spiced Buttermilk Trail
+201659,Rasoi Chowk,Thane,Urban Indian Curry
+201660,Rasoi Bhawan Cart,Chikkaballapur,Momo Rasoi
+201661,Tandoori Kitchen Express,Dhule,Desi Soup & Curry
+201662,Mirch Masala,Sidhi,Indian Zaika Rasoi
+201663,The Dilli Rasoi Cart,Mangalore,Spice Trail India
+201664,Dilli Zaika,Dharwad,Tulu
+201665,Chulha Kitchen,Davanagere,Rasoi Express Meals
+201666,Bombay Bistro,Burhanpur,Khichdi Varieties
+201667,Rasoi Tales,Dehradun,Pav Bhaji Special
+201668,Biryani Cart,Sundargarh,Heritage Curry Kitchen
+201669,Urban Feast Junction,Morena,Coastal
+201670,Urban Tandoor,Basti,Bamboo Shoot Curry
+201671,Curry Bhavan,Damoh,South Indian Fusion
+201672,Indian Rasoi Tales,Gorakhpur,Rajasthani Royal Rasoi
+201673,Tandoori Tales,Chittoor,Traditional South
+201674,The Dilli Haat,Kalyani,Combo of Rasoi
+201675,Masala Mill,Jhansi,Masala-e-Magic Platter
+201676,Zaika Chulha Rasoi,Puri,Butter-Based Dishes
+201677,Flavors of India,Alipurduar,Heritage Thali
+201678,Swaad Bhawan,Cuttack,Thali Special
+201679,Nukkad Adda,Hyderabad,Rice Bowl India
+201680,Maharani Meals,Barrackpore,Kulcha & Curry
+201681,Maharaja Thali Point,Vijayawada,Biryani Special
+201682,Zaika Grill House,Seoni,Indian Curry Stories
+201683,Chatpata Lounge,Chandigarh,Indian Festive Platter
+201684,Swad Sutra,Cuttack,Paneer Lovers Corner
+201685,Royal Rasoi,Nagpur,Desi Masala Bistro
+201686,Curry Bhavan,Akola,Kathiyawadi
+201687,Indian Flavors Cart,Bhatpara,Zaika-e-Dilli Thali
+201688,Desi Dosa,Latehar,Chatpata Rasoi Box
+201689,Zaika Cart,Bhagalpur,Veg Ghar Thali
+201690,Biryani Bhog,Ichalkaranji,Dry Curry Specials
+201691,Chulha Rasoi,Bidar,Dilli Chaat
+201692,Taste of India,Rajmahal,Oriya
+201693,Biryani Blues,Dumka,Fusion Thali
+201694,Tandoori Dilli,Ambikapur,Authentic Desi Flavors
+201695,Chatpata Table Rasoi,Yamunanagar,Kadhai-e-Zaika
+201696,The Tandoori Treats,Kumbakonam,Dinner Thali
+201697,Curry Junction,Koraput,Roti Curry Dal Express
+201698,Indian Curry Rasoda,Sidhi,Indian Dal Tadka
+201699,Urban Bhojanalay,Rewari,Masala Chulha Rasoi
+201700,Swaad Bhawan,Mandya,Biryani-e-Zaika
+201701,Chatkara Express House,Neemuch,Upma & Sheera
+201702,Indian Taste Cart,Ajmer,Indian Vegan Pot
+201703,Indian Roti Treats,Delhi,Goan
+201704,Royal Rasoi,Rudrapur,Indo-Chinese
+201705,Flavors of India,Pakur,Authentic Desi Flavors
+201706,Spice Box,Karnal,Indian Festive Platter
+201707,Zaika Mahal,Patna,Khaati Peeti Zaika
+201708,Dilli Tandoori,Basirhat,Indian Taste Pot
+201709,Butter Chicken Express,Ballia,Kerala Banana Leaf
+201710,Veg Rasoi Express,Korba,Idli Heaven
+201711,Zaika Rasoda,Dehradun,Lassi & Paratha Zone
+201712,Dilli Delight Rasoi,Katni,The Rasoi Flame
+201713,Swad Adda Point,Raipur,Rice Bowl India
+201714,Desi Flavors,Srinagar,Rajasthani Royal Rasoi
+201715,Indian Swad,Hyderabad,BBQ Indian
+201716,Curry Chowk Cart,Roorkee,Veg Ghar Thali
+201717,Curry King Rasoi,Midnapore,Goan
+201718,Curry Magic,Bardhaman,Bengal Fish Kitchen
+201719,Zaika Zest,Mandya,Kulcha & Curry
+201720,The Rasoi Bhog Junction,Khandwa,Dinner Thali
+201721,Rasoi Bhawan,Rohtak,Masala-Based
+201722,Hyderabadi House,Saharanpur,Coconut-Based Dishes
+201723,Chatpata Bhawan,Ajmer,Handi Specials
+201724,Royal Chatori,Warangal,Maharashtrian
+201725,The Swad Story,Maheshtala,Fry & Curry House
+201726,Swad Kitchen Delight,Madurai,Tangy Bhukkad Box
+201727,Flavours of Chennai,Hubli,Butter Masala House
+201728,The Curry Pot,Sagar,Indian Fest Rasoi
+201729,The Chatpata Table,Haveri,Handi Specials
+201730,Veggie Junction,Bagalkot,Roti-Sabzi
+201731,Zaika Hub,Chikkaballapur,Gujarati
+201732,Masala Chatori,Katwa,Bihari
+201733,Vyanjan Villa,Phulbani,Indian Flavors Reloaded
+201734,Curry Treat House,Bijapur,South Tandoor Curry
+201735,The Rasoi Cart,Chittoor,Indian Gravy Fusion
+201736,Zaika Lounge,Bagalkot,Rice-Based
+201737,Maharaja Meals,Chikkaballapur,Tandoori
+201738,Zaika Junction,Shahdol,Gujarati
+201739,Spice Villa,Ranchi,Veg Rasoi-e-Zaika
+201740,Swad Rasoi,Rajmahal,Desi Fast Food
+201741,Desi Rasoi,Sehore,Rogan Josh Special
+201742,South Curry House,Sidhi,Indian BBQ
+201743,Chatori Rasoda,Seoni,Biryani & Kebab
+201744,The Rasoi Bhog Junction,Tumakuru,Lentil Lovers Special
+201745,Desi Bhawan,Bhiwani,Combo of Rasoi
+201746,Zaika Chatpata Adda,Nashik,South Indian Fusion
+201747,Roti Rasoda,Sangli,Chulha Special Curry
+201748,Bhojan Cart Express,Krishnanagar,Tulu
+201749,The Paratha House,Bhavnagar,Rice Bowl India
+201750,Dilli Kitchen Rasoi,Vidisha,Veg Maharani Rasoi
+201751,Biryani Junction,Mandya,Thepla & Chunda
+201752,Desi Rasoi Junction,Rampurhat,Kulcha & Curry
+201753,The Curry Co.,Haldia,Kebab Special
+201754,Maharani Zaika,Shivpuri,Farm-to-Table Indian
+201755,Rasoda House,Hoshangabad,Indian Street Eats
+201756,Chulha Ghar,Kolhapur,Millet Fusion
+201757,The Maharaja Table,Gwalior,Biryani Mix Fusion
+201758,Rasoi Gully,Patna,Gujarati
+201759,Biryani Bhog,Roorkee,Thali Special
+201760,Curry Junction Express,Chhindwara,Bhakri & Sabzi
+201761,Chulha Point,Moradabad,Pure Indian Platters
+201762,Chatpata King,Vijayawada,Andhra Meal Thali
+201763,Curry Adda,Bally,Pav Bhaji Special
+201764,Chatori Treat Junction,Ujjain,Curry Mix Kitchen
+201765,Veggie Curry,Lucknow,Indian Taste Pot
+201766,Rasoi Rasoda Palace,Bikaner,Kerala Banana Leaf
+201767,Veg Delight,Sehore,Hyderabadi
+201768,Maharani Zaika,Gumla,Indo-Tibetan Combo
+201769,Rasoi Rasoda Chowk,Balasore,Kebab Special
+201770,Rasoi Tiffin,Asansol,Sizzler Platter
+201771,Urban Swad Point,Moradabad,Grilled Masala Zaika
+201772,Desi Zaika,Ambikapur,Kerala Banana Leaf
+201773,Zaika Grill House,Asansol,Swaad Bhawan
+201774,The Curry Craft,Gadag,Thepla & Chunda
+201775,Kathi Roll Nation,Deoghar,Grilled Masala Zaika
+201776,Mirch Masala,Bhubaneswar,Tulu
+201777,Indian Delight Kitchen,Mau,Punjabi
+201778,South Curry House,Pakur,Dinner Thali
+201779,Indian Diner Express,Vijayawada,Indian Combo Kitchen
+201780,Dilli Delight Rasoi,Daltonganj,Indian Rasoi Daily
+201781,Thali Bhawan,Gorakhpur,Fry Curry House
+201782,Chatpata Curry,Shivpuri,Curry Leaf Delight
+201783,Chatpata Lounge,Burhanpur,Chatori Chatpata Curry
+201784,Rasoi Heritage,Tamluk,Pav Bhaji Special
+201785,Indian Roti Cart,Nayagarh,Khaati Peeti Zaika
+201786,Biryani Junction,Visakhapatnam,Organic Indian
+201787,Swaad Bhawan,Yadgir,Regional Delicacy
+201788,Dosa Delight,Nellore,BBQ Indian
+201789,Bhukkad Gully,Guntur,Coconut-Based Dishes
+201790,Zaika Treats,Kurukshetra,Indian Ghar Rasoi
+201791,Chatkara Rasoda,Bharatpur,Dal Makhani Feast
+201792,Rasoi Culture Co.,Jamshedpur,Misal Pav
+201793,Zaika Chulha Rasoi,Seoni,Manipuri
+201794,Rasoi Express,Jamnagar,Vegan Indian
+201795,The Curry Lounge,Ambikapur,Manipuri
+201796,Indian Tandoor,Dhanbad,Curry Mix Kitchen
+201797,Swadish Rasoi,Jalandhar,Gujrati Kathiyawadi
+201798,Veggie Rasoi,Ludhiana,Lentil-Based
+201799,Rasoda Culture Rasoi,Dumka,Sizzler Platter
+201800,Biryani Culture,Mysuru,Hyderabadi
+201801,Desi Flavors,Shimoga,Curry Carnival
+201802,Zaika Rasoda,Raebareli,Lentil Lovers Special
+201803,Rasoi Tales,Damoh,Idli Heaven
+201804,Zaika CafÈ House,Ballia,Malvani
+201805,The Zaika Rasoi,Harda,Roti Saag Makki
+201806,Zaika Hub,Yamunanagar,Dhokla & Farsan
+201807,Flavours of Chennai,Etawah,Indian Kadai Magic
+201808,Urban Curry Express,Bhilai,Thali Bhavan Specials
+201809,Chatori Rasoda,Solapur,Kerala Curry Special
+201810,Tandoori Nights,Nizamabad,Masala Bistro
+201811,The Curry Bowl,Rampur,Thali Special
+201812,Dosa Rasoi,Palwal,Biryani House Special
+201813,Zaika Delight Rasoi,Jalandhar,Festival Feast
+201814,Desi Curry Cart,Haldia,Lentil-Based
+201815,Rasoda Treats Rasoi,Kurukshetra,Festive India
+201816,Zaika Zest,Kanpur,South Rasoi Express
+201817,The Curry Kitchen,Dehradun,Butter-Based Dishes
+201818,Veggie Curry,Phulbani,Indian Zaika Rasoi
+201819,Royal Curry Rasoi,Jaunpur,Idli Express
+201820,Veg Rasoi Express,Pakur,Evening Snacks
+201821,Chatpata Junction,Kanpur,India Feast House
+201822,Biryani Treat Rasoi,Tirunelveli,Mixed Indian Rasoi
+201823,Rasoda Bhawan Cart,Jhumri Tilaiya,Rasoi Express Meals
+201824,Swadish Bites,Jaunpur,Masala Bistro
+201825,The Urban Feast,Karimnagar,Kathiyawadi
+201826,Dilli Chatpata Rasoi,Sundargarh,Kerala
+201827,Chatori Rasoda,Solapur,Jain
+201828,Indian Roti Cart,Tirunelveli,Fry & Curry House
+201829,Swad Mahal Rasoi,Mau,Ghar Ki Daal Chawal
+201830,Roti Zaika,Dhanbad,Heritage Recipes
+201831,Indian Masaledar Treats,Mau,Indian Pepper Pot
+201832,Curry Mandi,Daltonganj,Tribal
+201833,Indian Zaika King,Dhule,Rasoi-e-Ghar
+201834,Rasoi Tales,Puri,Misal Pav
+201835,Chatori Gali,Karnal,North Indian
+201836,Indian Zaika King,Kalyan,Tandoori BBQ Fusion
+201837,Zaika Treats,Ahmedabad,Indian Rasoi Daily
+201838,The Urban Rasoda,Chatra,Chatori Chatpata Curry
+201839,Curry Bhawan Express,Kolhapur,South Indian
+201840,Flavour Junction,Amravati,Roti-Sabzi
+201841,Curry Magic,Sangli,Thali Special
+201842,Swad Express Diner,Mandsaur,Dilli Feast Specials
+201843,Veggie Express,Jeypore,Tibetan-Influenced
+201844,Hyderabadi House,Bhavnagar,Festive Masala Curry
+201845,Bhojan Heritage Rasoi,Bikaner,Maharashtrian Meal
+201846,The Rasoi Bhog,Sirsa,Tandoori Grill
+201847,Royal Swad Rasoi,Shivpuri,Butter-Based Dishes
+201848,Zaika Cart,Hassan,Tiffin Treats India
+201849,Zaika Grill,Haridwar,Farm Cuisine India
+201850,Chatpata Table Rasoi,Bhiwandi,Litti Chokha
+201851,The Urban Feast,Hyderabad,Chaat Bazaar Bites
+201852,Chatpata Co.,Harda,Desi Zaika Corner
+201853,Tandoori Rasoi CafÈ,Nayagarh,Less Oil Cuisine
+201854,Tandoori Zaika Hut,Ulhasnagar,Indian Dal Tadka
+201855,Curry Wagon,Jagdalpur,Chatori Dilli Rasoi
+201856,Rasoi Ghar,Bagalkot,Modern Indian
+201857,Bhojan Feast Rasoi,Akola,Royal Feast
+201858,Zaika Chulha Rasoi,Durg,Fry & Curry House
+201859,Curry Affair Rasoi,Nizamabad,Indian Flavors Reloaded
+201860,Chatkara Treats,Mathura,Khichdi House India
+201861,Veggie Express,Karimnagar,Indian Combo Kitchen
+201862,Dilli Delight Rasoi,Rudrapur,Dhokla & Farsan
+201863,Indian Biryani Ghar,Amravati,Veg Rasoi-e-Zaika
+201864,Urban Swad,Guntur,Kulcha & Curry
+201865,Thali Treats,Kolar,Desi Fusion Carnival
+201866,Namma Ooru Dosa,Betul,Indian BBQ
+201867,The Curry Pot,Bardhaman,Bengali
+201868,Desi Chulha Rasoi,Nayagarh,Ghar Se Zaika
+201869,The Thali Rasoi,Jaipur,Roti Curry Dal Express
+201870,Spicy Treat Rasoi,Bhavnagar,Tibetan-Influenced
+201871,Indian Chatpata Rasoi,Noida,Zaika-e-Fusion
+201872,Swadish Rasoi,Dhule,Tandoori Temptations
+201873,Masala CafÈ Rasoi,Dhanbad,North Indian
+201874,Desi Curry Cart,Panipat,Biryani Mix Fusion
+201875,Rasoi Adda,Vellore,Roti Curry Dal Express
+201876,Indian Roti Treats,Chatra,Indian Fry House
+201877,Indian Royal Kitchen,Gulbarga,Chole Bhature
+201878,Tandoori Rasoi Spot,Rewari,Fusion Thali
+201879,Indian Rasoi King,Rajmahal,Desi Masala Bistro
+201880,Desi Bistro,Haldia,India Tandoor Rasoi
+201881,Biryani Bhog,Dumka,Chulha Special Curry
+201882,Rasoi Gully,Rampur,Andhra
+201883,Desi Tandoor Spot,Rewa,Indian Fest Rasoi
+201884,Zaika Zest,Nadiad,Modern Indian
+201885,Biryani House India,Rampur,Kerala Curry Special
+201886,The Urban Thali,Hospet,Fusion Indian
+201887,Indian Flavors Cart,Chitradurga,Indian Flavors Reloaded
+201888,Swad Sagar,Sagar,Modern Indian
+201889,Maharani Feast Point,Bareilly,Tandoori Grill
+201890,Veggie Express,Visakhapatnam,Indian Firepot
+201891,Indian Roti Treats,Bardhaman,Tangy Bhukkad Box
+201892,Swad Zaika Rasoi,Vidisha,Rice Bowl India
+201893,Masala Junction,Navi Mumbai,Dinner Thali
+201894,Vyanjan Villa,Maheshtala,Sikkimese
+201895,Curry Rasoda House,Jalor,Butter-Based Dishes
+201896,Chatpata Lounge,Coimbatore,Maharashtrian Meal
+201897,Veggie Junction,Baharampur,Tandoori Thali Ghar
+201898,Veggie Junction,Hisar,Biryani & Handi
+201899,Ghar Ka Zaika,Faridabad,Oriya
+201900,Flavours of Chennai,Bhatpara,Vegan Indian
+201901,Veg Rasoi Express,Nainital,Dinner Thali
+201902,Tandoori Dilli,Dhule,Curry Leaf Delight
+201903,Maharani Chatori,Tiruchirappalli,Goan
+201904,Zaika Stories,Bijapur,Desi Vegan Combo
+201905,Roti Ghar,Cooch Behar,Kathiyawadi
+201906,Swad Indian Kitchen,Ujjain,Tandoori Delight Zone
+201907,The Swad House,Rudrapur,Gharwali Rasoi
+201908,Chatpata Co.,Durg,Dilli Feast Specials
+201909,Bombay Zaika,Warangal,Authentic Desi Flavors
+201910,Urban Zaika,Salem,Biryani & Kebab
+201911,Rasoi Urban Kitchen,Agra,Non-Veg Delight
+201912,Swad Bhujanalay,Mysuru,Feast of Thalis
+201913,Roti Rasoda,Nanded,Biryani & Handi
+201914,Zaika Thali,Ghaziabad,Tandoori
+201915,Desi Rasoi,Kalyani,Chulha Special Curry
+201916,Dilli Chatkara Point,Ulhasnagar,Pani Puri Special
+201917,Dilli Tandoori,Nayagarh,Maharaja Thali
+201918,Royal Swad Rasoi,Damoh,Sindhi
+201919,Swad Spot,Hyderabad,Mixed Indian Rasoi
+201920,Swad Indian Kitchen,Surat,Khichdi Varieties
+201921,The Curry Kitchen,Chikkaballapur,Indian Soul Curry
+201922,Chatkara Table,Ichalkaranji,Indian BBQ
+201923,Chatpata Junction,Jalandhar,Spicy Food
+201924,Desi Curry House,Jammu,Kathi Roll Express
+201925,Urban Bhojan,Ranchi,Fish Curry Heaven
+201926,The Urban Rasoda,Agra,North Indian
+201927,Urban Swad Point,Chatra,Combo of Rasoi
+201928,The Tandoori Treats,Jodhpur,Chaat Bazaar Bites
+201929,Zaika Zest,Harda,The Royal Feast
+201930,Zaika Rasoi Point,Agra,Goan
+201931,Rasoi Gully Cart,Bengaluru,Roti Curry Dal Express
+201932,Rasoi Feast Hut,Malegaon,Mixed Indian Rasoi
+201933,The Curry Craft,Dhenkanal,Heritage Thali
+201934,Biryani Treat Rasoi,Warangal,Dal Bati Churma
+201935,Masala Mill,Barasat,Indian Maharaja Dishes
+201936,Royal Curry Rasoi,Cuttack,Bengal Fish Kitchen
+201937,Maharaja Rasoda,Haveri,Indian Ghar Rasoi
+201938,Zaika Chatpata Adda,Malegaon,Chulha Special Curry
+201939,Hyderabadi House,Ajmer,Rajasthani
+201940,Ghar Ki Thali,Chaibasa,Farm Cuisine India
+201941,Zaika Adda House,Koppal,Mutton Curry Rasoi
+201942,Rasoi Heritage,Jalna,Naga
+201943,Desi Dosa,Patna,Farm-to-Table Indian
+201944,Swad Bhujanalay,Aligarh,Millet Fusion
+201945,Swad Indian Kitchen,Pakur,Biryani Special
+201946,Biryani Bhawan,Bhavnagar,Heritage Recipes
+201947,The Spice Affair,Raebareli,Momos and More
+201948,Royal Chatori,Bhopal,North Indian
+201949,Zaika Thali,Kharagpur,Non-Veg Delight
+201950,Dilli Chatkara Point,Solapur,Veggie Masala Ghar
+201951,Indian Roti Treats,Gorakhpur,Handi Specials
+201952,Indian Flavors Cart,Chennai,Butter-Based Dishes
+201953,Veg Rasoi Express,Sambalpur,Kathi Roll Express
+201954,Rasoi Lounge,Howrah,Sizzling Indian
+201955,Chatpata Rasoi,Ludhiana,Chatpata Rasoi Box
+201956,The Curry Co.,Jalgaon,Desi Fast Food
+201957,Curry Fiesta Rasoi,Ludhiana,Festive Masala Curry
+201958,Thali Bhawan,Haridwar,Indian Firepot
+201959,Masala Roti Point,Ulhasnagar,Gravy Special
+201960,Tandoori Bhavan,Dhenkanal,Chulha Special Curry
+201961,The Dilli Haat,Sirsa,Biryani-e-Zaika
+201962,Hyderabadi House,Haveri,Modern Indian
+201963,Swad Dhamaka,Sambalpur,Indian Vegan Pot
+201964,Veg Rasoi Express,Balasore,Lassi & Paratha Zone
+201965,Chatkara Mahal,Pune,Tandoori Thali Ghar
+201966,Masala Rasoda,Bijapur,Pure Vegetarian
+201967,The Rasoi Bhog Junction,Chennai,Curry Leaf Delight
+201968,Tandoor Curry Point,Itarsi,Evening Snacks
+201969,Roti Curry Rasoi,Jeypore,Chaat Bazaar Bites
+201970,Masala CafÈ Rasoi,Mumbai,Misal Pav
+201971,Veggie Express,Dumka,Sizzling Indian
+201972,Butter Chicken Express,Chhindwara,Masala-Based
+201973,Delhi Belly Diner,Phulbani,Indian Festive Platter
+201974,Indian Royal Kitchen,Bhilai,Swaad Paratha House
+201975,Zaika Gully Kitchen,Haldia,Maharashtrian
+201976,Delhi Belly Diner,Bharatpur,Biryani House Special
+201977,Dilli Delight Rasoi,Haldwani,Kerala
+201978,Rasoi Dhamaka,Bokaro,South Tandoor Curry
+201979,Flavour Junction,Raiganj,Kachori & Sabzi
+201980,Indian Roti Treats,Howrah,Thepla & Chunda
+201981,Rasoi Ghar India,Agra,Bengal Fish Kitchen
+201982,Roti Table Express,Cooch Behar,Biryani House Special
+201983,Zaika Chatpata Adda,Gulbarga,Ayurvedic Cuisine
+201984,Maharani Zaika,Nagpur,Seafood Special
+201985,Butter Chicken Express,Mandya,Assamese
+201986,Curry Lounge Rasoi,Nadiad,Zaika Box
+201987,Curry Bhawan Express,Yamunanagar,Indian Breads Only
+201988,Curry Swad,Gandhidham,Kulcha & Curry
+201989,Swad Bhawan,Bhiwandi,Butter Chicken Special
+201990,Roti Thali Corner,Agra,Masala Bistro
+201991,Curry Rasoda,Ratlam,Festival Feast
+201992,The Maharaja Table,Sultanpur,Roti-Sabzi
+201993,Dilli Bhojan,Udaipur,Punjabi
+201994,Punjab Grill,Mau,Sizzler Platter
+201995,Tandoor Curry Point,Vellore,Gharwali Rasoi
+201996,Tandoori Kitchen Express,Guwahati,Ghee-Rich Meals
+201997,Rasoi Feast Hut,Hubli,Royal Feast
+201998,Bhojan Cart,Delhi,Zaika-e-Dilli Thali
+201999,The Dilli Haat,Shivpuri,Non-Veg Delight
